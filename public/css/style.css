@@ -13,6 +13,7 @@ body {
 p.intervention {
     font-size: xx-large;
     font-weight: bolder;
+    color: #a7000f;
 }
 
 p.target_audience {

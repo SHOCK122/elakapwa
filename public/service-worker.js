@@ -1,10 +1,9 @@
-const CACHE_NAME = 'sw-cache-example';
+const CACHE_NAME = 'sw-cache';
 const toCache = [
-    '/',
     '/index.html',
-    '/js/status.js',
     '/js/post.js',
-    '/js/messages.json'
+    '/js/messages.json',
+    '/js/status.js'
 ];
 
 self.addEventListener('install', function (event) {
