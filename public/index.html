@@ -2,6 +2,7 @@
 <head>
     <link rel="manifest" href="/js/pwa.webmanifest">
     <link rel="apple-touch-icon" href="/images/apple-touch.png">
+    <link rel="stylesheet" href="/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#764ABC" />
 </head>
@@ -10,36 +11,54 @@
     <br>
     <span>You are now</span>
     <span><b class="page-status">online</b></span>
-    <div>
-        <p>
-            <b>ID:</b>
-        <span class="message_id">
-            id goes here</span>
+    <div class="content">
+        <p class="message_id hidden">
+            <span class="label">
+                <b>ID:</b>
+            </span>
+            <span class="message_id">
+                id goes here
+            </span>
         </p>
-        <p>
-            <b>Intervention Type:</b>
-        <span class="intervention">
-            messages go here</span>
+        <p class="intervention">
+            <span class="label hidden">
+                <b>Intervention Type:</b>
+            </span>
+            <span class="intervention">
+                intervention goes here
+            </span>
         </p>
-        <p>
-            <b>General Audience:</b>
-        <span class="general_audience">
-            messages go here</span>
+        <p class="general_audience hidden">
+            <span class="label">
+                <b>General Audience:</b>
+            </span>
+            <span class="general_audience">
+                general audience goes here
+            </span>
         </p>
-        <p> 
-            <b>Target Audience:</b>
-        <span class="target_audience">
-            messages go here</span>
+        <p class="target_audience">
+            <span class="label hidden">
+                <b>Target Audience:</b>
+            </span>
+            <span class="target_audience">
+                target audience goes here
+            </span>
         </p>
-        <p>
-            <b>Promoted Behavior:</b>
-        <span class="promote">
-            messages go here</span>
+        <p class="promote">
+            <span class="label">
+                <b>Promoted Behavior:</b>
+            </span>
+            <span class="promote">
+                promoted behaviors go here
+            </span>
         </p>
-        <p>
-            <b>Message:</b>
-        <span class="message">
-            messages go here</span>
+        <p class="message">
+            <span class="label hidden">
+                <b>Message:</b>
+            </span>
+            <span class="message">
+                messages go here
+            </span>
         </p>
     </div>
     <script src="/js/pwa.js"></script>
