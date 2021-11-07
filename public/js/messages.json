@@ -8,7 +8,7 @@
     "promoted_behavior": " Pregnant women comply with the minimum number of PNCs (four visits)",
     "action": "Compliance with the minimum number of PNCs (four visits)",
     "message": {
-      "English": "Dear pregnant women; visit PNC services at least four times as recommended to benefit from preventive and curative care, advice that can help ensure your health and that of your unborn child",
+      "English": "Dear pregnant women; visit prenatal consultations (PNC) at least four times as recommended to benefit from preventive and curative care, advice that can help ensure your health and that of your unborn child",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -19,10 +19,10 @@
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women do not respect preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
-    "promoted_behavior": " Pregnant women apply preventive measures against malaria (IPT/SP and sleep under the LLIN)",
+    "promoted_behavior": " Pregnant women apply preventive measures against malaria (IPT/SP and sleep under the Long-lasting Insecticidal Net (LLIN))",
     "action": "Implementation of malaria prevention measures (IPT/SP and sleeping under the LLIN)",
     "message": {
-      "English": "Dear pregnant women, sleep every night under the LLIN to avoid malaria which is harmful to your health and that of your baby",
+      "English": "Dear pregnant women, sleep every night under the Long-lasting Insecticidal Net (LLIN) to avoid malaria which is harmful to your health and that of your baby",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -36,7 +36,7 @@
     "promoted_behavior": " Pregnant women develop a birth plan",
     "action": "Development of a birth plan",
     "message": {
-      "English": "Pregnant women, discuss your birth plan with your healthcare providers during PNC so that you can receive quality care during your delivery to safeguard your health, your life and the life of your unborn child.",
+      "English": "Pregnant women, discuss your birth plan with your healthcare providers during prenatal consultation (PNC) so that you can receive quality care during your delivery to safeguard your health, your life and the life of your unborn child.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -47,7 +47,7 @@
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
-    "promoted_behavior": " Pregnant women are aware of the danger signs of pregnancy and seek help from the HC in time",
+    "promoted_behavior": "Pregnant women are aware of the danger signs of pregnancy and seek help from a healthcare facility in time",
     "action": "Consultation on the occurrence of a danger sign",
     "message": {
       "English": "Dear pregnant women, set up your birth plan according to the healthcare providers' guidelines to guarantee your health and that of your unborn child",
@@ -62,7 +62,7 @@
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women delay going to the health center in case of danger signs or childbirth",
     "promoted_behavior": " Pregnant women decide in time to seek help from the health center in case of danger signs or childbirth",
-    "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up of…",
+    "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up ofâ€¦",
     "message": {
       "English": "Dear pregnant woman, when you notice any of the following signs: bleeding, pain in the lower abdomen, loss of water, high fever, go immediately to the health center to receive appropriate care.",
       "French": "French message here.",
@@ -76,7 +76,7 @@
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women use certain indigenous products to speed up labor and delivery",
     "promoted_behavior": " Pregnant women do not use indigenous products to speed up labor and delivery",
-    "action": "Informing the woman of the danger signs during…",
+    "action": "Informing the woman of the danger signs duringâ€¦",
     "message": {
       "English": "Dear pregnant women, go give birth in a health facility to benefit from assisted childbirth and ensure quality care for yourself and your baby.",
       "French": "French message here.",
@@ -103,10 +103,10 @@
     "general_audience": "Partner",
     "target_audience": "Husband/Spouse",
     "problem_behavior": "The husband/spouse does not go with the pregnant woman to PNC.",
-    "promoted_behavior": " The husband/spouse goes with the pregnant woman to PNC",
+    "promoted_behavior": " The husband/spouse goes with the pregnant woman to prenatal consultations (PNC)",
     "action": "Escorting the pregnant woman to the PNC",
     "message": {
-      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -117,10 +117,10 @@
     "general_audience": "Partner",
     "target_audience": "Husband/Spouse",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The husband/spouse decides to seek help from a healthcare facility in case of in case of danger signs or childbirth",
     "action": "",
     "message": {
-      "English": "1. Tetanus vaccination;",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -131,10 +131,10 @@
     "general_audience": "Partner",
     "target_audience": "Husband/Spouse",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The husband/spouse is supportive of the woman for pregnancy follow-up (communication within the couple, and being aware of one's responsabilities, etc.)",
     "action": "",
     "message": {
-      "English": "2. HIV testing to protect the baby;",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
@@ -142,67 +142,11 @@
   {
     "id": 11,
     "intervention": "Prenatal Consultation (PNC)",
-    "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
-    "problem_behavior": "",
-    "promoted_behavior": "",
-    "action": "",
-    "message": {
-      "English": "3. Take the indicated dose of iron and folic acid to avoid anemia;",
-      "French": "French message here.",
-      "Swahili": "Swahili message here."
-    }
-  },
-  {
-    "id": 12,
-    "intervention": "Prenatal Consultation (PNC)",
-    "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
-    "problem_behavior": "",
-    "promoted_behavior": "",
-    "action": "",
-    "message": {
-      "English": "4. Enriching meals, especially during the first 3 months of pregnancy;",
-      "French": "French message here.",
-      "Swahili": "Swahili message here."
-    }
-  },
-  {
-    "id": 13,
-    "intervention": "Prenatal Consultation (PNC)",
-    "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
-    "problem_behavior": "The husband/spouse is slow in deciding to seek help from the HC in case of danger signs or childbirth",
-    "promoted_behavior": " The husband/spouse decides to seek help from the HC in case of danger signs or childbirth",
-    "action": "Decision to seek help from the HC in case of danger or delivery signs",
-    "message": {
-      "English": "5. Use iodized salt to prevent spontaneous abortion or premature delivery;",
-      "French": "French message here.",
-      "Swahili": "Swahili message here."
-    }
-  },
-  {
-    "id": 14,
-    "intervention": "Prenatal Consultation (PNC)",
-    "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
-    "problem_behavior": "The husband/spouse is not supportive of the woman for pregnancy follow-up (lack of communication within the couple, abandonment and not taking responsibility, fear of expenses, opposition to covering any costs associated with childbirth, ...)",
-    "promoted_behavior": " The husband/spouse is supportive of the woman for pregnancy follow-up (communication within the couple, and being aware of one's responsibilities, etc.)",
-    "action": "Providing support to women for pregnancy follow-up (communication within the couple, being aware of one's responsibilities, etc.)",
-    "message": {
-      "English": " 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
-      "French": "French message here.",
-      "Swahili": "Swahili message here."
-    }
-  },
-  {
-    "id": 15,
-    "intervention": "Prenatal Consultation (PNC)",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Encourages prohibited food and the use of indigenous products during pregnancy;",
-    "promoted_behavior": " Discourages prohibited food and the use of indigenous products during pregnancy;",
-    "action": "Discouragement of the use of prohibited food and indigenous products during pregnancy;",
+    "promoted_behavior": "Discourages prohibited food and the use of indigenous products during pregnancy. Assisting the pregnant woman in monitoring the four prenatal consultation visits",
+    "action": "Discouragement of the use of prohibited food and indigenous products during pregnancy",
     "message": {
       "English": "Dear community members, immediately escort the pregnant woman to the nearest health center or hospital as soon as you observe any of the following signs: bleeding, convulsions, fever, loss of amniotic fluid, difficult breathing, severe headaches, severe pain in the lower abdomen, swelling of the face, hands or feet, disappearance or reduction of the baby's movements, disturbance of vision for the sake of your own care and that of your unborn child.",
       "French": "French message here.",
@@ -210,12 +154,12 @@
     }
   },
   {
-    "id": 17,
+    "id": 12,
     "intervention": "Prenatal Consultation (PNC)",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Disregards pregnant women at the PNC.",
-    "promoted_behavior": " Paying attention to the pregnant woman at the PNC",
+    "promoted_behavior": " Paying attention to the pregnant woman at prenatal consultations (PNC).",
     "action": "Promoting humanized care",
     "message": {
       "English": "Dear healthcare providers, give a friendly welcome and humanized care to all pregnant women to encourage them to continue with the use of your services.",
@@ -224,12 +168,12 @@
     }
   },
   {
-    "id": 18,
+    "id": 13,
     "intervention": "Prenatal Consultation (PNC)",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Poor reception of pregnant women at the PNC.",
-    "promoted_behavior": " Make the pregnant woman feel welcome at the PNC.",
+    "promoted_behavior": " Make the pregnant woman feel welcome at the prenatal consultation (PNC).",
     "action": "Discussion and implementation of the delivery plan with the pregnant woman at the PNC.",
     "message": {
       "English": "Dear healthcare providers, prioritize pregnant women to ensure appropriate emergency care and avoid complications.",
@@ -238,21 +182,21 @@
     }
   },
   {
-    "id": 19,
+    "id": 14,
     "intervention": "Prenatal Consultation (PNC)",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "3/ Does not discuss the delivery plan with pregnant women at the PNC",
-    "promoted_behavior": " 3/ Discusses delivery plan with pregnant women at the PNC.",
+    "promoted_behavior": "Discusses delivery plan with pregnant women at the prenatal consultation (PNC).",
     "action": "",
     "message": {
-      "English": "Dear healthcare providers, discuss the birth plan with the pregnant woman during PNC to ensure a safe delivery for the mother and newborn",
+      "English": "Dear healthcare providers, discuss the birth plan with the pregnant woman during prenatal consultation (PNC) to ensure a safe delivery for the mother and newborn",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 20,
+    "id": 15,
     "intervention": "Assisted delivery",
     "general_audience": "Women",
     "target_audience": "Woman in labor",
@@ -266,7 +210,7 @@
     }
   },
   {
-    "id": 21,
+    "id": 16,
     "intervention": "Assisted delivery",
     "general_audience": "Women",
     "target_audience": "Woman in labor",
@@ -280,7 +224,7 @@
     }
   },
   {
-    "id": 22,
+    "id": 17,
     "intervention": "Assisted delivery",
     "general_audience": "Women",
     "target_audience": "Woman in labor",
@@ -294,12 +238,12 @@
     }
   },
   {
-    "id": 23,
+    "id": 18,
     "intervention": "Assisted delivery",
     "general_audience": "Women",
     "target_audience": "Woman in labor",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Go to a facility that is equipped for delivery.",
     "action": "",
     "message": {
       "English": "Dear pregnant women, give birth in a well-equipped maternity hospital with qualified personnel to ensure quality care for you and your baby",
@@ -308,12 +252,12 @@
     }
   },
   {
-    "id": 24,
+    "id": 19,
     "intervention": "Assisted delivery",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "Failure of healthcare provider to refer pregnant women in labor with a complication in time",
-    "promoted_behavior": " Prompt referral of pregnant women in labor with a complication is done by the healthcare provider",
+    "promoted_behavior": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider",
     "action": "Proper monitoring of a woman in labor",
     "message": {
       "English": "Clinical care providers, take the time to monitor a woman in labor to detect signs of complications in time to ensure proper management",
@@ -322,12 +266,12 @@
     }
   },
   {
-    "id": 26,
+    "id": 20,
     "intervention": "Assisted delivery",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
     "action": "",
     "message": {
       "English": "Clinical care providers, prompt referral in case of complications is important to ensure the survival of the pregnant woman and her unborn child.",
@@ -336,12 +280,12 @@
     }
   },
   {
-    "id": 28,
+    "id": 21,
     "intervention": "Assisted delivery",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Prompt referral of pregnant women in labor with a complication by the healthcare provider.",
     "action": "",
     "message": {
       "English": "Clinical care providers, Remember, prompt referral of pregnant women in case of complications is the key to quality care to ensure the survival of the woman and her unborn child",
@@ -350,7 +294,7 @@
     }
   },
   {
-    "id": 29,
+    "id": 22,
     "intervention": "Postnatal Consultation (CPoN)",
     "general_audience": "Women",
     "target_audience": "Immediate and late postpartum women",
@@ -364,7 +308,7 @@
     }
   },
   {
-    "id": 30,
+    "id": 23,
     "intervention": "Postnatal Consultation (CPoN)",
     "general_audience": "Women",
     "target_audience": "Immediate and late postpartum women",
@@ -378,7 +322,7 @@
     }
   },
   {
-    "id": 31,
+    "id": 24,
     "intervention": "Consultation in time for comprehensive abortion care",
     "general_audience": "Women",
     "target_audience": "Women",
@@ -392,7 +336,7 @@
     }
   },
   {
-    "id": 32,
+    "id": 25,
     "intervention": "Use of comprehensive abortion care services",
     "general_audience": "Women",
     "target_audience": "Women",
@@ -406,26 +350,26 @@
     }
   },
   {
-    "id": 33,
-    "intervention": " Using contraception as an option after abortion",
+    "id": 26,
+    "intervention": "Using contraception as an option after abortion",
     "general_audience": "Women",
     "target_audience": "Women",
     "problem_behavior": "Women do not use contraception after abortion",
-    "promoted_behavior": " Women choose to use contraception after abortion",
+    "promoted_behavior": "Women choose to use contraception after abortion",
     "action": "Using contraception as an option after abortion",
     "message": {
-      "English": " Dear women, use a contraceptive method of your choice after abortion to avoid an unwanted pregnancy and thrive",
+      "English": "Dear women, use a contraceptive method of your choice after abortion to avoid an unwanted pregnancy and thrive",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 34,
-    "intervention": " Using contraception as an option after abortion",
+    "id": 27,
+    "intervention": "Using contraception as an option after abortion",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "The healthcare provider does not give the correct information to women after abortion.",
-    "promoted_behavior": " Healthcare providers properly inform women about comprehensive abortion care, benefits, possible risks, importance of contraception, etc.",
+    "promoted_behavior": "Healthcare providers properly inform women about comprehensive abortion care, benefits, possible risks, importance of contraception, etc.",
     "action": "Provide women with accurate information about comprehensive abortion care - benefits, possible risks, importance of contraception",
     "message": {
       "English": "Dear healthcare providers, use safe and secure methods of uterine evacuation in case of abortion to avoid complications and ensure good health of the woman;",
@@ -434,22 +378,36 @@
     }
   },
   {
-    "id": 35,
-    "intervention": " Using contraception as an option after abortion",
+    "id": 28,
+    "intervention": "Using contraception as an option after abortion",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "Providers use obsolete uterine evacuation methods (curettage, forced cervical dilation, no pain management, etc.)",
-    "promoted_behavior": " Healthcare providers use safe methods of uterine evacuation (AMIU, misoprostol, mifepristone, pain management, AINS, para cervical block).",
-    "action": "Use of safe methods of uterine evacuation (AMIU, misoprostol, mifepristone, pain management, AINS, para cervical block)",
+    "promoted_behavior": "Healthcare providers use safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, Nonsteroidal anti-inflammatory drugs (NSAIDs), para cervical block).",
+    "action": "Use of safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, AINS, para cervical block)",
     "message": {
-      "English": "Dear healthcare provider, systematically administer a contraceptive method of choice to every woman who has had an abortion, to prevent pregnancy within six months of the abortion in order to prevent maternal morbidity and mortality",
+      "English": "Dear healthcare provider, systematically administer a contraceptive method of choice to every woman who has had an abortion, to prevent pregnancy within six months of the abortion in order to prevent maternal morbidity and mortality.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 39,
-    "intervention": " Using contraception as an option after abortion",
+    "id": 29,
+    "intervention": "Using contraception as an option after abortion",
+    "general_audience": "Healthcare Provider",
+    "target_audience": "Clinical care provider",
+    "problem_behavior": "",
+    "promoted_behavior": "Healthcare providers always administer a contraceptive method to all women after abortion care.",
+    "action": "",
+    "message": {
+      "English": "Dear healthcare provider, systematically administer a contraceptive method of choice to every woman who has had an abortion, to prevent pregnancy within six months of the abortion in order to prevent maternal morbidity and mortality.",
+      "French": "French message here.",
+      "Swahili": "Swahili message here."
+    }
+  },
+  {
+    "id": 30,
+    "intervention": "Using contraception as an option after abortion",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "The community stigmatizes women who perform abortions",
@@ -462,12 +420,12 @@
     }
   },
   {
-    "id": 40,
-    "intervention": " Using contraception as an option after abortion",
+    "id": 31,
+    "intervention": "Using contraception as an option after abortion",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "The community is not fully informed about the availability of free comprehensive abortion care services (SCACF)",
-    "promoted_behavior": " The community is fully informed about the availability of free comprehensive abortion care services (SCACF)",
+    "promoted_behavior": "The community is fully informed about the availability of free comprehensive abortion care services centered on women.",
     "action": "Provide correct information about free comprehensive abortion care services",
     "message": {
       "English": "Dear community members, kindly escort any woman who has had an abortion to the nearest health center to receive quality care.",
@@ -476,68 +434,68 @@
     }
   },
   {
-    "id": 41,
+    "id": 32,
     "intervention": " Using contraception as an option after abortion",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The community is fully informed about the availability of free comprehensive abortion care services centered on women.",
     "action": "",
     "message": {
-      "English": "Dear community members, abortion care services are important and available, for all cases of unsafe abortion go to the health center to receive appropriate care",
+      "English": "Dear community members, abortion care services are important and available, for all cases of unsafe abortion go to the health center to receive appropriate care.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 42,
-    "intervention": "SEN",
+    "id": 33,
+    "intervention": "Newborn care",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Does not provide the newborn with basic care",
-    "promoted_behavior": " Healthcare provider always provides the newborn with complete basic care",
+    "promoted_behavior": " Healthcare provider always provides the newborn with complete basic care.",
     "action": "Systematic administration of complete basic care to the newborn",
     "message": {
-      "English": "Dear providers, always provide the newborn with complete basic care for good survival",
+      "English": "Dear providers, always provide the newborn with complete basic care for good survival.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 43,
-    "intervention": "SEN",
+    "id": 34,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Does not exclusively breastfeed the baby",
-    "promoted_behavior": " The mother exclusively breastfeeds the baby;",
+    "promoted_behavior": "The mother exclusively breastfeeds the baby.",
     "action": "Exclusive breastfeeding",
     "message": {
-      "English": "Dear mothers, exclusively breastfeed your baby after delivery to ensure good health and prevent a close pregnancy",
+      "English": "Dear mothers, exclusively breastfeed your baby after delivery to ensure good health and prevent a close pregnancy.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 44,
-    "intervention": "SEN",
+    "id": 35,
+    "intervention": " Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The mother exclusively breastfeeds the baby.",
     "action": "",
     "message": {
-      "English": "Dear parents, breast milk is the only natural, complete and adapted food for your baby, exclusively breastfeed him from birth until he is six months old",
+      "English": "Dear parents, breast milk is the only natural, complete and adapted food for your baby, exclusively breastfeed him from birth until he is six months old.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 45,
-    "intervention": "SEN",
+    "id": 36,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Do not sleep under the LLIN, leaving the baby exposed to bad weather",
-    "promoted_behavior": " The mother and the baby sleep under the LLIN.",
+    "promoted_behavior": " The mother and the baby sleep under the Long-lasting Insecticidal Net (LLIN).",
     "action": "Proper use of the LLIN",
     "message": {
       "English": "Dear parents, sleeping under Long-lasting Insecticidal Net (LLIN) every night will protect you and your family from bites of mosquitoes that transmit malaria.",
@@ -546,12 +504,12 @@
     }
   },
   {
-    "id": 47,
-    "intervention": "SEN",
+    "id": 37,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "Do not go to the HC as soon as the newborn shows danger signs",
-    "promoted_behavior": " Protects the baby from bad weather",
+    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "Taking care of the newborn at home (protecting the baby from heat, cold and dressing the baby",
     "message": {
       "English": "Dear parents, bring your baby immediately to the health center as soon as you detect any of the following infant danger signs: refusal to suck, moving less or being inactive, non-stop crying, fever, breathing difficulties and diarrhea, cough, cold, convulsions...",
@@ -560,12 +518,12 @@
     }
   },
   {
-    "id": 48,
-    "intervention": "SEN",
+    "id": 38,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Protects the baby from bad weather.",
     "action": "",
     "message": {
       "English": "Dear parents, take good care of the newborn at home, protect the baby against heat, smoke, cold and dress him properly to ensure his healthy growth and avoid illness",
@@ -574,26 +532,26 @@
     }
   },
   {
-    "id": 49,
-    "intervention": "SEN",
+    "id": 39,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "",
     "message": {
-      "English": "Take your baby to the health center immediately if any of the following infant danger signs are detected. The infant is having convulsions, has a distended abdomen or is vomiting whatever he or she swallows, has a foul odor around the navel or the cord is red",
+      "English": "Take your baby to the health center immediately if any of the following infant danger signs are detected. The infant is having convulsions, has a distended abdomen or is vomiting whatever he or she swallows, has a foul odor around the navel or the cord is red.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 50,
-    "intervention": "SEN",
+    "id": 40,
+    "intervention": "Newborn care",
     "general_audience": "Women",
     "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "",
     "message": {
       "English": "Dear parents, as soon as your child is having convulsions, repeated vomiting, refuses to suck or eat, or goes into comma, take him/her immediately to the referral health center or hospital for appropriate care.",
@@ -602,7 +560,20 @@
     }
   },
   {
-    "id": 54,
+    "id": 41,
+    "intervention" : "Newborn care",
+    "general_audience": "Women",
+    "problem_behavior": "",
+    "promoted_behavior": "Wash hands before and after nursing the newborn.",
+    "action":"",
+    "message": {
+      "English": "Dear mother, wash your hands before and after nursing the newborn.",
+      "French":"French message here.",
+      "Swahili": "Swahili message here."
+    }
+  },
+  {
+    "id": 42,
     "intervention": "Use of contraceptive methods",
     "general_audience": "Women",
     "target_audience": "Sexually active woman of childbearing age, married or not",
@@ -610,13 +581,13 @@
     "promoted_behavior": " Women of childbearing age use contraception of their choice",
     "action": "Use of contraceptive method of choice.",
     "message": {
-      "English": "Dear women of childbearing age, use a contraceptive method of your choice to avoid too many early and late pregnancies to ensure your health and your family well-being",
+      "English": "Dear women of childbearing age, use a contraceptive method of your choice to avoid too many early and late pregnancies to ensure your health and your family well-being.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 55,
+    "id": 43,
     "intervention": "Use of contraceptive methods",
     "general_audience": "Women",
     "target_audience": "Sexually active woman of childbearing age, married or not",
@@ -630,12 +601,12 @@
     }
   },
   {
-    "id": 56,
-    "intervention": "Use of contraceptive methods",
+    "id": 44,
+    "intervention": "Newborn care",
     "general_audience": "Women",
-    "target_audience": "Sexually active woman of childbearing age, married or not",
+    "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
     "message": {
       "English": "1. We should vaccinate our children at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, pertussis, hepatitis B, meningitis, pneumonia, yellow fever and measles;",
@@ -644,12 +615,12 @@
     }
   },
   {
-    "id": 57,
-    "intervention": "Use of contraceptive methods",
+    "id": 45,
+    "intervention": "Newborn care",
     "general_audience": "Women",
-    "target_audience": "Sexually active woman of childbearing age, married or not",
+    "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
     "message": {
       "English": "2. We should respect the 5 free vaccination appointments to guarantee the good health of our children from 0 to 11 months",
@@ -658,12 +629,12 @@
     }
   },
   {
-    "id": 58,
-    "intervention": "Use of contraceptive methods",
+    "id": 46,
+    "intervention": "Newborn care",
     "general_audience": "Women",
-    "target_audience": "Sexually active woman of childbearing age, married or not",
+    "target_audience": "The mother",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
     "message": {
       "English": "3. Have your child vaccinated 5 times before his or her first birthday to protect against vaccine-preventable diseases",
@@ -672,7 +643,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 47,
     "intervention": "Management of side effects",
     "general_audience": "Women",
     "target_audience": "Woman using a contraceptive method",
@@ -686,26 +657,26 @@
     }
   },
   {
-    "id": 60,
+    "id": 48,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "The pregnant woman is not adequately informed at the PNC about the importance of using contraceptive methods after delivery.",
-    "promoted_behavior": "The pregnant woman is adequately informed at the PNC about the importance of using contraceptive methods after delivery.",
+    "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "Informing pregnant women about the use of contraceptive methods",
     "message": {
-      "English": "Dear pregnant women, go to the PNC. In addition to monitoring your pregnancy, you will get information and counseling on contraceptive methods to use immediately after delivery. This will allow you to avoid the occurrence of an unwanted pregnancy, ensure good health and family well-being.                                                                         2/ Warning: Ask the provider about contraceptive options to be used immediately after delivery to avoid an early pregnancy and ensure your health, your baby's health and your family's well-being.",
+      "English": "Dear pregnant women, go to prenatal consultations. In addition to monitoring your pregnancy, you will get information and counseling on contraceptive methods to use immediately after delivery. This will allow you to avoid the occurrence of an unwanted pregnancy, ensure good health and family well-being. Warning: Ask the provider about contraceptive options to be used immediately after delivery to avoid early pregnancy and ensure your health, your baby's health, and your family's well-being.",                                                                         2/ Warning: Ask the provider about contraceptive options to be used immediately after delivery to avoid an early pregnancy and ensure your health, your baby's health and your family's well-being.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 61,
+    "id": 49,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "",
-    "promoted_behavior": "",
+    "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "",
     "message": {
       "English": "Dear pregnant women, using a safe and effective contraceptive method after delivery helps you ensure the development and health of the mother-child couple and the well-being of the entire family.",
@@ -714,7 +685,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 50,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
@@ -728,7 +699,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 51,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
@@ -742,49 +713,49 @@
     }
   },
   {
-    "id": 64,
-    "intervention": "SGBV",
+    "id": 52,
+    "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Women and Men",
-    "target_audience": "Survivor of SGBV",
+    "target_audience": "Survivor of Sexual and Gender-Based Violence (SGBV)",
     "problem_behavior": "Do not denounce the damage suffered",
-    "promoted_behavior": " 11/ Report any case of violence",
+    "promoted_behavior": "Report any case of violence",
     "action": "Reporting all cases of rape",
     "message": {
-      "English": "I, a survivor of SGBV, denounce the abuses I suffered, demand proper care and prosecution of the perpetrator.",
+      "English": "I, a survivor of Sexual and Gender-Based Violence (SGBV), denounce the abuses I suffered, demand proper care and prosecution of the perpetrator.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 66,
-    "intervention": "SGBV",
+    "id": 53,
+    "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Stigmatizes the victim of sexual violence",
     "promoted_behavior": " Stop stigmatizing the victim of sexual violence",
     "action": "Promotion of care services for survivors of SGBV victims",
     "message": {
-      "English": "Dear community members, DO NOT stigmatize survivors of SGBV. Encourage them to report and assist them in getting better care.",
+      "English": "Dear community members, DO NOT stigmatize survivors of Sexual and Gender-Based Violence (SGBV). Encourage them to report and assist them in getting better care.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 67,
-    "intervention": "SGBV",
+    "id": 54,
+    "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
     "problem_behavior": "Fails to provide timely and appropriate care to the survivor of SGBV.",
-    "promoted_behavior": " Provides timely and appropriate care to the survivor of SGBV.",
+    "promoted_behavior": " Provides timely and appropriate care to the survivor of Sexual and Gender-Based Violence (SGBV).",
     "action": "Holistic care for survivors of SGBV.",
     "message": {
-      "English": "Dear healthcare providers, listen to survivors of SGBV and provide them with adequate care to facilitate their social reintegration",
+      "English": "Dear healthcare providers, listen to survivors of Sexual and Gender-Based Violence (SGBV) and provide them with adequate care to facilitate their social reintegration",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 68,
+    "id": 55,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
@@ -792,32 +763,32 @@
     "promoted_behavior": " Applies recommended practices (use of partograms during labor monitoring, ...)",
     "action": "Application of recommended practices to save women's lives (use of partograms during labor monitoring, ...)",
     "message": {
-      "English": "Dear healthcare providers, please follow recommended practices in the management of women in labor. Use partograms during labor monitoring to avoid complications and death of mother and baby",
+      "English": "Dear healthcare providers, please follow recommended practices in the management of women in labor. Use partograms during labor monitoring to avoid complications and death of mother and baby.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 69,
+    "id": 56,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Women and Men",
     "target_audience": "Fistula patient",
     "problem_behavior": "Fistula patients hide and are ashamed",
-    "promoted_behavior": " Do not hide, go to the health facility for appropriate care",
+    "promoted_behavior": "Do not hide, go to the health facility for appropriate care.",
     "action": "Consultation in health facilities to benefit from fistula repair",
     "message": {
-      "English": "Dear women with urogenital fistulas, come out of hiding to receive proper care and improve your health",
+      "English": "Dear women with urogenital fistulas, come out of hiding to receive proper care and improve your health.",
       "French": "French message here.",
       "Swahili": "Swahili message here."
     }
   },
   {
-    "id": 70,
+    "id": 57,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Stigmatization of fistula patients",
-    "promoted_behavior": " Stop stigmatizing urogenital fistula patients.",
+    "promoted_behavior": "Stop stigmatizing urogenital fistula patients.",
     "action": "Assisting patients with urogenital fistulas in the repair process",
     "message": {
       "English": "Dear community members, DO NOT stigmatize patients with urogenital fistulas, but encourage them to seek medical attention and provide timely support for the repair process so that they can regain their well-being.",
