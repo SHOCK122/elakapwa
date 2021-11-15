@@ -18,14 +18,29 @@ self.addEventListener('install', function (event) {
 
 self.addEventListener('fetch', function (event) {
     event.respondWith(
-        fetch(event.request)
-            .catch(() => {
-                return caches.open(CACHE_NAME)
-                    .then((cache) => {
-                        return cache.match(event.request)
-                    })
-            })
-    )
+        async () => {
+            const cachedResponse = await caches.match(event.request);
+            if (cachedResponse) {
+                return cachedResponse;
+            }
+
+            const response = await fetch(event.request);
+
+            if (!response || response.status !== 200 || response.type !== 'basic') {
+                return response;
+            }
+            return response;
+        }
+        )
+    //    }
+    //    fetch(event.request)
+    //        .catch(() => {
+    //            return caches.open(CACHE_NAME)
+    //                .then((cache) => {
+    //                    return cache.match(event.request)
+    //                })
+    //        })
+    //)
 })
 
 self.addEventListener('activate', function (event) {
