@@ -10,9 +10,7 @@ request.send()
 let msgIndex = 0
 let lang = "eng"
 const el = document.getElementById('langbar')
-console.log(el)
 children = el.querySelectorAll('.lang')
-console.log(children)
 for (let child of children) {
     child.addEventListener('click',changeLang)
 }
