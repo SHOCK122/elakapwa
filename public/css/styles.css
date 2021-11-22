@@ -6,7 +6,7 @@ body {
     display: grid;
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    grid-template-rows: 1em 1fr 1.5em 3em;
+    grid-template-rows: 1em calc(100% - 5.5em) 1.5em 3em;
     margin-left: 1em;
     margin-right: 1em;
 }
@@ -34,7 +34,7 @@ p.target_audience {
 
 p.message {
     overflow-y: auto;
-    max-height: 3.1em;
+    max-height: 100%;
 }
 
 div#navbar {
@@ -47,4 +47,33 @@ div#langbar {
     justify-content: space-around;
     align-content: space-around;
     align-items: center;
+}
+
+.navbutton {
+    background: black;
+    outline-color: white;
+    color: #dd0000;
+    min-width: 33%
+}
+/*
+    encorporate later
+*/
+p.intervention {
+    margin-bottom: .5em;
+    margin-top: 0px;
+}
+
+p.target_audience {
+    margin-top: 0px;
+    margin-bottom: .25em;
+}
+
+p.promote {
+    margin-top: 0px;
+    margin-bottom: .25em;
+    color: #dd0000;
+}
+
+p.message {
+    margin: 0px;
 }

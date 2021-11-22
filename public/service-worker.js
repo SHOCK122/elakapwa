@@ -1,4 +1,4 @@
-const staticCacheName = 'sw-cache-v3.1';
+const staticCacheName = 'sw-cache-v3.3';
 const toCache = [
     '/index.html',
     '/js/post.js',
