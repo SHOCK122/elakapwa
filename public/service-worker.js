@@ -1,9 +1,10 @@
-const staticCacheName = 'sw-cache-v2';
+const staticCacheName = 'sw-cache-v3.1';
 const toCache = [
     '/index.html',
     '/js/post.js',
     '/js/messages.json',
-    '/js/status.js'
+    '/js/status.js',
+    '/css/styles.css'
 ];
 
 self.addEventListener('install', event => {
