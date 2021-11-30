@@ -85,9 +85,9 @@ function post() {
     idElem.innerHTML = message.id
     message.intervention.English ? intervElem.innerHTML = message.intervention[language] : intervElem.innerHTML = message.intervention
     //intervElem.innerHTML = message.intervention
-    genElem.innerHTML = message.general_audience
-    tarElem.innerHTML = message.target_audience
-    promElem.innerHTML = message.promoted_behavior
-    msgElem.innerHTML = message.message[language]
+    message.general_audience.English ? genElem.innerHTML = message.general_audience[language] : genElem.innerHTML = message.general_audience
+    message.target_audience.English ? tarElem.innerHTML = message.target_audience[language] : tarElem.innerHTML = message.target_audience
+    message.promoted_behavior.English ? promElem.innerHTML = message.promoted_behavior[language] : promElem.innerHTML = message.promoted_behavior
+    message.message.English ? msgElem.innerHTML = message.message[language] : msgElem.innerHTML = message.message
     
 }
