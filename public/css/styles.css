@@ -53,7 +53,9 @@ div#langbar {
     background: black;
     outline-color: white;
     color: #dd0000;
-    min-width: 33%
+    min-width: 33%;
+    font-size: larger;
+    font-weight: bold;
 }
 /*
     encorporate later

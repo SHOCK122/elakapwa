@@ -59,6 +59,20 @@ function changeLang() {
 }
 
 function post() {
+    let language = 'eng'
+    switch (lang) {
+        case 'eng':
+            language = 'English'
+            break;
+        case 'fr':
+            language = 'French'
+            break;
+        case 'swh':
+            language = 'Swahili'
+            break;
+        default:
+            language = 'English'
+    }
     if (message == undefined) {
         getRandomMessage(messages.length)
     }
@@ -69,21 +83,11 @@ function post() {
     const promElem = document.querySelector('.promote')
     const msgElem = document.querySelector('.message')
     idElem.innerHTML = message.id
-    intervElem.innerHTML = message.intervention
+    message.intervention.English ? intervElem.innerHTML = message.intervention[language] : intervElem.innerHTML = message.intervention
+    //intervElem.innerHTML = message.intervention
     genElem.innerHTML = message.general_audience
     tarElem.innerHTML = message.target_audience
     promElem.innerHTML = message.promoted_behavior
-    switch (lang) {
-        case 'eng':
-            msgElem.innerHTML = message.message.English
-            break;
-        case 'fr':
-            msgElem.innerHTML = message.message.French
-            break;
-        case 'swh':
-            msgElem.innerHTML = message.message.Swahili
-            break;
-        default:
-            msgElem.innerHTML = message.message.English
-    }
+    msgElem.innerHTML = message.message[language]
+    
 }

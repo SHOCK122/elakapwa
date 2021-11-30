@@ -1,7 +1,11 @@
 [
   {
     "id": 1,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
@@ -18,12 +22,13 @@
     "intervention": "Prenatal Consultation (PNC)",
     "general_audience": "Women",
     "target_audience": "Pregnant women",
-    "problem_behavior": "Pregnant women do not respect preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
-    "promoted_behavior": " Pregnant women apply preventive measures against malaria (IPT/SP and sleep under the Long-lasting Insecticidal Net (LLIN))",
+    "problem_behavior": "Pregnant women do not utilize preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
+    "promoted_behavior": " Pregnant women use preventive measures against malaria (IPT/SP and sleep under the Long-lasting Insecticidal Net (LLIN))",
     "action": "Implementation of malaria prevention measures (IPT/SP and sleeping under the LLIN)",
     "message": {
       "English": "Dear pregnant women, sleep every night under the Long-lasting Insecticidal Net (LLIN) to avoid malaria which is harmful to your health and that of your baby",
       "French": "Chères femmes enceintes, dormez toutes les nuits sous la Moustiquaire Imprégnée d’Insecticide à Longue Durée d’Action (MILD) pour éviter la malaria nuisible pour votre santé et celle de votre bébé.",
+      ".\",": null,
       "Swahili": "Wapendwa wanawake wajawazito, lala kila usiku ndani ya Chandarua chenye Dawa ya Kudumu ya Muda Mrefu (MILD) kuepuka malaria ambayo ni hatari kwa afya yako na ya mtoto wako."
     }
   },
@@ -47,7 +52,7 @@
     "general_audience": "Women",
     "target_audience": "Pregnant women",
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
-    "promoted_behavior": "Pregnant women are aware of the danger signs of pregnancy and seek help from a healthcare facility in time",
+    "promoted_behavior": "Pregnant women are aware of the danger signs of pregnancy and seek help from a healthcare facility in time.",
     "action": "Consultation on the occurrence of a danger sign",
     "message": {
       "English": "Dear pregnant women, set up your birth plan according to the healthcare providers' guidelines to guarantee your health and that of your unborn child.",
@@ -106,7 +111,7 @@
     "promoted_behavior": " The husband/spouse goes with the pregnant woman to prenatal consultations (PNC)",
     "action": "Escorting the pregnant woman to the PNC",
     "message": {
-      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions: 1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions: 1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
@@ -120,7 +125,7 @@
     "promoted_behavior": "The husband/spouse decides to seek help from a healthcare facility in case of in case of danger signs or childbirth",
     "action": "",
     "message": {
-      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
@@ -134,7 +139,7 @@
     "promoted_behavior": "The husband/spouse is supportive of the woman for pregnancy follow-up (communication within the couple, and being aware of one's responsabilities, etc.)",
     "action": "",
     "message": {
-      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, fulfillment of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
+      "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
       "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
@@ -145,7 +150,7 @@
     "general_audience": "Community",
     "target_audience": "Community",
     "problem_behavior": "Encourages prohibited food and the use of indigenous products during pregnancy;",
-    "promoted_behavior": "Discourages prohibited food and the use of indigenous products during pregnancy. Assisting the pregnant woman in monitoring the four prenatal consultation visits",
+    "promoted_behavior": "Discourages prohibited food and the use of home remedies during pregnancy. Assisting the pregnant woman in monitoring the four prenatal consultation visits",
     "action": "Discouragement of the use of prohibited food and indigenous products during pregnancy",
     "message": {
       "English": "Dear community members, immediately escort the pregnant woman to the nearest health center or hospital as soon as you observe any of the following signs: bleeding, convulsions, fever, loss of amniotic fluid, difficult breathing, severe headaches, severe pain in the lower abdomen, swelling of the face, hands or feet, disappearance or reduction of the baby's movements, disturbance of vision for the sake of your own care and that of your unborn child.",
@@ -316,7 +321,7 @@
     "promoted_behavior": " Women in postpartum use a contraceptive method before leaving the maternity ward",
     "action": "Use of a contraceptive method before leaving the maternity ward",
     "message": {
-      "English": "WARNING: Dear women, after delivery, use a contraceptive method of your choice after delivery and before leaving the maternity ward to avoid unwanted pregnancies and close pregnancies to ensure your well-being, that of your baby and your family",
+      "English": "WARNING: Dear women, after delivery, use a contraceptive method of your choice after delivery and before leaving the maternity ward to avoid unwanted pregnancies and unsafe pregnancies spacing to ensure your well-being, that of your baby and your family",
       "French": "Chères accouchées, ATTENTION !  Chères femmes, après accouchement, utilisez une méthode contraceptive de votre choix après l'accouchement et avant de quitter la maternité pour éviter les grossesses non désirées et rapprochées afin d'assurer votre bien être, celui de votre bébé et de votre famille.",
       "Swahili": "Wanawake wapendwa, baada ya kuzaa, tumia njia ya uzazi wa mpango ya uchaguzi wako kabla ya kuondoka katika kituo cha afya ili kuepuka mimba zisizohitajika na ujauzito wa karibu ili kuhakikisha afya bora wako, wa mtoto na familia yako."
     }
@@ -379,14 +384,14 @@
   },
   {
     "id": 28,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": "Using safe methods of uterine evacuation",
     "general_audience": "Healthcare Provider",
     "target_audience": "Clinical care provider",
     "problem_behavior": "Providers use obsolete uterine evacuation methods (curettage, forced cervical dilation, no pain management, etc.)",
     "promoted_behavior": "Healthcare providers use safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, Nonsteroidal anti-inflammatory drugs (NSAIDs), para cervical block).",
     "action": "Use of safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, AINS, para cervical block)",
     "message": {
-      "English": "Dear healthcare provider, systematically administer a contraceptive method of choice to every woman who has had an abortion, to prevent pregnancy within six months of the abortion in order to prevent maternal morbidity and mortality.",
+      "English": "Dear healthcare provider, use safe methods of uterine evacuation such as manual intra-uterine aspiration, misoprostol, mifepristone, nonsteroidal anti-inflammatory drugs (NSAIDs), paracervical block after a miscarriage or abortion.",
       "French": "Chers prestataires, administrez systématiquement une méthode contraceptive de choix à chaque femme ayant connu un avortement, pour prévenir la survenue d’une grossesse dans les six mois après avortement afin de prévenir la morbi-mortalité maternelle.",
       "Swahili": "Watoa huduma wapendwa, ni muhimu kupana mashahuri kuhusu njia ya uzazi wa mpango kwa kila mwanamke ambaye alitoa mimba, kuzuia kutokea kwa ujauzito ndani ya miezi sita baada ya utoaji mimba ili kuzuia magonjwa ya uzazi na vifo."
     }
@@ -470,8 +475,8 @@
     "promoted_behavior": "The mother exclusively breastfeeds the baby.",
     "action": "Exclusive breastfeeding",
     "message": {
-      "English": "Dear mothers, exclusively breastfeed your baby after delivery to ensure good health and prevent a close pregnancy.",
-      "French": "Chères accouchées/chères femmes, après accouchement allaitez exclusivement votre bébé au sein afin de lui assurer la bonne santé et prévenir une grossesse   rapprochée.",
+      "English": "Dear mothers, exclusively breastfeed your baby after delivery to ensure good health and prevent unsafe pregnancy spacing.",
+      "French": "Chères accouchées/chères femmes, après accouchement allaitez exclusivement votre bébé au sein afin de lui assurer la bonne santé et prévenir une grossesse rapprochée.",
       "Swahili": "Wanawake wapendwa, baada ya kuzaa tumia maziwa ya mama pekee ili kuhakikisha afya njema ya mtoto wako na kuzuia mimba ya karibu."
     }
   },
@@ -554,7 +559,7 @@
     "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "",
     "message": {
-      "English": "Dear parents, as soon as your child is having convulsions, repeated vomiting, refuses to suck or eat, or goes into comma, take him/her immediately to the referral health center or hospital for appropriate care.",
+      "English": "Dear parents, as soon as your child is having convulsions, repeated vomiting, refuses to suck or eat, or goes into coma, take him/her immediately to the referral health center or hospital for appropriate care.",
       "French": "Chers parents, dès que votre enfant convulse, vomis à répétition, refuse de téter ou de manger ou entre en comma, amenez-le immédiatement au Centre de Santé de référence ou à l'hôpital pour y recevoir des soins appropriés.",
       "Swahili": "Wazazi wapendwa, mtoto akitetemeka sana, ama anatapika mara mingi, akikataa ku nyonya ama kukula, mbebe kwa haraka kwenye kituo cha afya ama hospitalini ili kupata huduma bora."
     }
@@ -623,27 +628,13 @@
     "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
     "message": {
-      "English": "2. We should respect the 5 free vaccination appointments to guarantee the good health of our children from 0 to 11 months.",
-      "French": "2. Respectons les 5 rendez-vous de vaccination gratuite pour garantir la bonne santé de nos enfants de 0 à 11 mois.",
-      "Swahili": "2. Hebu tuheshimu ziara 5 za chanjo za bure ili kuhakikisha afya nzuri ya watoto wetu kutoka miezi 0 hadi 11."
+      "English": "2. Have your child vaccinated 5 times before his or her first birthday to protect against vaccine-preventable diseases.",
+      "French": "2. Faites vacciner votre enfant 5 fois avant son premier anniversaire pour le protéger contre les maladies évitables par la vaccination.",
+      "Swahili": "2. mtoto wako achanjwe mara 5 kabla ya siku yao ya kwanza ya kuzaliwa kuwalinda na magonjwa yanayozuilika na chanjo."
     }
   },
   {
     "id": 46,
-    "intervention": "Newborn care",
-    "general_audience": "Women",
-    "target_audience": "The mother",
-    "problem_behavior": "",
-    "promoted_behavior": "The mother complies with the vaccination schedule.",
-    "action": "",
-    "message": {
-      "English": "3. Have your child vaccinated 5 times before his or her first birthday to protect against vaccine-preventable diseases.",
-      "French": "3. Faites vacciner votre enfant 5 fois avant son premier anniversaire pour le protéger contre les maladies évitables par la vaccination.",
-      "Swahili": "3. mtoto wako achanjwe mara 5 kabla ya siku yao ya kwanza ya kuzaliwa kuwalinda na magonjwa yanayozuilika na chanjo."
-    }
-  },
-  {
-    "id": 47,
     "intervention": "Management of side effects",
     "general_audience": "Women",
     "target_audience": "Woman using a contraceptive method",
@@ -657,7 +648,7 @@
     }
   },
   {
-    "id": 48,
+    "id": 47,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Women",
     "target_audience": "Pregnant women",
@@ -671,7 +662,7 @@
     }
   },
   {
-    "id": 49,
+    "id": 48,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Women",
     "target_audience": "Pregnant women",
@@ -685,7 +676,7 @@
     }
   },
   {
-    "id": 50,
+    "id": 49,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
@@ -699,11 +690,11 @@
     }
   },
   {
-    "id": 51,
+    "id": 50,
     "intervention": "Use of contraceptive methods in the postpartum period",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider to women in labor in the latency phase",
-    "problem_behavior": "ealthcare providers do not give contraceptive counseling to women in labor",
+    "problem_behavior": "Healthcare providers do not give contraceptive counseling to women in labor",
     "promoted_behavior": "Healthcare provider gives contraceptive counseling to the woman in labor",
     "action": "Systematic initiation of contraceptive counseling for women in labor who have not yet chosen a contraceptive method",
     "message": {
@@ -713,7 +704,7 @@
     }
   },
   {
-    "id": 52,
+    "id": 51,
     "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Women and Men",
     "target_audience": "Survivor of Sexual and Gender-Based Violence (SGBV)",
@@ -727,7 +718,7 @@
     }
   },
   {
-    "id": 53,
+    "id": 52,
     "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Community",
     "target_audience": "Community",
@@ -741,7 +732,7 @@
     }
   },
   {
-    "id": 54,
+    "id": 53,
     "intervention": "Sexual and Gender-Based Violence (SGBV)",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
@@ -755,7 +746,7 @@
     }
   },
   {
-    "id": 55,
+    "id": 54,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Healthcare Provider",
     "target_audience": "Healthcare provider",
@@ -769,7 +760,7 @@
     }
   },
   {
-    "id": 56,
+    "id": 55,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Women and Men",
     "target_audience": "Fistula patient",
@@ -783,7 +774,7 @@
     }
   },
   {
-    "id": 57,
+    "id": 56,
     "intervention": "Treatment of urogenital fistula",
     "general_audience": "Community",
     "target_audience": "Community",
@@ -797,7 +788,7 @@
     }
   },
   {
-    "id": 58,
+    "id": 57,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "",
     "target_audience": "Pregnant women",
@@ -811,7 +802,7 @@
     }
   },
   {
-    "id": 59,
+    "id": 58,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "Breastfeeding women",
     "target_audience": "Breastfeeding women",
@@ -825,7 +816,7 @@
     }
   },
   {
-    "id": 60,
+    "id": 59,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "Breastfeeding women",
     "target_audience": "Breastfeeding women",
@@ -839,7 +830,7 @@
     }
   },
   {
-    "id": 61,
+    "id": 60,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -853,7 +844,7 @@
     }
   },
   {
-    "id": 62,
+    "id": 61,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -867,7 +858,7 @@
     }
   },
   {
-    "id": 63,
+    "id": 62,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "",
     "target_audience": "Healthcare providers",
@@ -881,7 +872,7 @@
     }
   },
   {
-    "id": 64,
+    "id": 63,
     "intervention": "Breastfeeding within one hour after delivery.",
     "general_audience": "",
     "target_audience": "Community members",
@@ -895,7 +886,7 @@
     }
   },
   {
-    "id": 65,
+    "id": 64,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -909,7 +900,7 @@
     }
   },
   {
-    "id": 66,
+    "id": 65,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -923,7 +914,7 @@
     }
   },
   {
-    "id": 67,
+    "id": 66,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -937,7 +928,7 @@
     }
   },
   {
-    "id": 68,
+    "id": 67,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -951,7 +942,7 @@
     }
   },
   {
-    "id": 69,
+    "id": 68,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -965,7 +956,7 @@
     }
   },
   {
-    "id": 70,
+    "id": 69,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -979,7 +970,7 @@
     }
   },
   {
-    "id": 71,
+    "id": 70,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Healthcare providers (Clinical and Community)",
@@ -993,7 +984,7 @@
     }
   },
   {
-    "id": 72,
+    "id": 71,
     "intervention": "Exclusive breastfeeding up to 6 months",
     "general_audience": "",
     "target_audience": "Community members",
@@ -1007,7 +998,7 @@
     }
   },
   {
-    "id": 73,
+    "id": 72,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1021,7 +1012,7 @@
     }
   },
   {
-    "id": 74,
+    "id": 73,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -1035,7 +1026,7 @@
     }
   },
   {
-    "id": 75,
+    "id": 74,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Health providers",
@@ -1049,7 +1040,7 @@
     }
   },
   {
-    "id": 76,
+    "id": 75,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Community members",
@@ -1063,7 +1054,7 @@
     }
   },
   {
-    "id": 77,
+    "id": 76,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1077,7 +1068,7 @@
     }
   },
   {
-    "id": 78,
+    "id": 77,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1091,7 +1082,7 @@
     }
   },
   {
-    "id": 79,
+    "id": 78,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Man (husband) and community members",
@@ -1105,7 +1096,7 @@
     }
   },
   {
-    "id": 80,
+    "id": 79,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Healthcare providers",
@@ -1119,7 +1110,7 @@
     }
   },
   {
-    "id": 81,
+    "id": 80,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Pregnant women",
@@ -1133,7 +1124,7 @@
     }
   },
   {
-    "id": 82,
+    "id": 81,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1147,7 +1138,7 @@
     }
   },
   {
-    "id": 83,
+    "id": 82,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Man (husband) and community members",
@@ -1161,7 +1152,7 @@
     }
   },
   {
-    "id": 84,
+    "id": 83,
     "intervention": "Breastfeeding continues until the child is 2 years old or older",
     "general_audience": "",
     "target_audience": "Healthcare providers",
@@ -1175,7 +1166,7 @@
     }
   },
   {
-    "id": 85,
+    "id": 84,
     "intervention": "Vaccination",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1189,7 +1180,7 @@
     }
   },
   {
-    "id": 86,
+    "id": 85,
     "intervention": "Vaccination",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1203,7 +1194,7 @@
     }
   },
   {
-    "id": 87,
+    "id": 86,
     "intervention": "Vaccination",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -1217,7 +1208,7 @@
     }
   },
   {
-    "id": 88,
+    "id": 87,
     "intervention": "Vaccination",
     "general_audience": "",
     "target_audience": "Healthcare providers",
@@ -1225,13 +1216,13 @@
     "promoted_behavior": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
     "action": "",
     "message": {
-      "English": "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 years and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
-      "French": "Prestataires, informez les parents sur l’importance et nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 ans et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
+      "English": "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
+      "French": "Prestataires, informez les parents sur l’importance et nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 mois et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
       "Swahili": "Watoa huduma wapendwa, wajulishe wazazi kuhusu umuhimu wa chanjo ya mara kwa mara ya watoto wao wenye umri wa miezi 0 hadi 9 wakati wa kuzaliwa, mwezi 1 na nusu, miezi 2 na nusu; katika miezi 3 na nusu na miezi 9 ili kuwalinda na magonjwa ya  tuberculose, polio, diphtérie, coqueluche, hépatite B, méningite, pneumonie, homa ya manjano na rougeole ili kuhakikisha afya ya watoto wachanga."
     }
   },
   {
-    "id": 89,
+    "id": 88,
     "intervention": "Vaccination",
     "general_audience": "",
     "target_audience": "Community members",
@@ -1245,7 +1236,7 @@
     }
   },
   {
-    "id": 90,
+    "id": 89,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "Breastfeeding women",
@@ -1259,7 +1250,7 @@
     }
   },
   {
-    "id": 91,
+    "id": 90,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "Man (husband)",
@@ -1273,7 +1264,7 @@
     }
   },
   {
-    "id": 92,
+    "id": 91,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "Healthcare providers ",
@@ -1287,7 +1278,7 @@
     }
   },
   {
-    "id": 93,
+    "id": 92,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "Community members",
@@ -1301,7 +1292,7 @@
     }
   },
   {
-    "id": 94,
+    "id": 93,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "The mother",
@@ -1315,7 +1306,7 @@
     }
   },
   {
-    "id": 95,
+    "id": 94,
     "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
     "general_audience": "",
     "target_audience": "Man (husband)",
