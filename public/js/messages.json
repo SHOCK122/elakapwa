@@ -7,7 +7,11 @@
       "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
     },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
     "promoted_behavior": " Pregnant women comply with the minimum number of PNCs (four visits)",
     "action": "Compliance with the minimum number of PNCs (four visits)",
@@ -19,23 +23,40 @@
   },
   {
     "id": 2,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not utilize preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
     "promoted_behavior": " Pregnant women use preventive measures against malaria (IPT/SP and sleep under the Long-lasting Insecticidal Net (LLIN))",
     "action": "Implementation of malaria prevention measures (IPT/SP and sleeping under the LLIN)",
     "message": {
       "English": "Dear pregnant women, sleep every night under the Long-lasting Insecticidal Net (LLIN) to avoid malaria which is harmful to your health and that of your baby",
       "French": "Chères femmes enceintes, dormez toutes les nuits sous la Moustiquaire Imprégnée d’Insecticide à Longue Durée d’Action (MILD) pour éviter la malaria nuisible pour votre santé et celle de votre bébé.",
+      ".\",": null,
       "Swahili": "Wapendwa wanawake wajawazito, lala kila usiku ndani ya Chandarua chenye Dawa ya Kudumu ya Muda Mrefu (MILD) kuepuka malaria ambayo ni hatari kwa afya yako na ya mtoto wako."
     }
   },
   {
     "id": 3,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not have a birth plan",
     "promoted_behavior": " Pregnant women develop a birth plan",
     "action": "Development of a birth plan",
@@ -47,9 +68,17 @@
   },
   {
     "id": 4,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
     "promoted_behavior": "Pregnant women are aware of the danger signs of pregnancy and seek help from a healthcare facility in time.",
     "action": "Consultation on the occurrence of a danger sign",
@@ -61,9 +90,17 @@
   },
   {
     "id": 5,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women delay going to the health center in case of danger signs or childbirth",
     "promoted_behavior": " Pregnant women decide in time to seek help from the health center in case of danger signs or childbirth",
     "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up of…",
@@ -75,9 +112,17 @@
   },
   {
     "id": 6,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women use certain indigenous products to speed up labor and delivery",
     "promoted_behavior": " Pregnant women do not use indigenous products to speed up labor and delivery",
     "action": "Informing the woman of the danger signs during…",
@@ -89,9 +134,17 @@
   },
   {
     "id": 7,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": {
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "The husband/spouse is not interested in the pregnant woman's health and ignores danger signs",
     "promoted_behavior": " The husband/spouse is interested in the pregnant woman's health and knows the danger signs",
     "action": "The husband/spouse is involved in the pregnant woman's health and knows the danger signs",
@@ -103,9 +156,17 @@
   },
   {
     "id": 8,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": {
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "The husband/spouse does not go with the pregnant woman to PNC.",
     "promoted_behavior": " The husband/spouse goes with the pregnant woman to prenatal consultations (PNC)",
     "action": "Escorting the pregnant woman to the PNC",
@@ -117,9 +178,17 @@
   },
   {
     "id": 9,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": {
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The husband/spouse decides to seek help from a healthcare facility in case of in case of danger signs or childbirth",
     "action": "",
@@ -131,9 +200,17 @@
   },
   {
     "id": 10,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Partner",
-    "target_audience": "Husband/Spouse",
+    "target_audience": {
+      "English": "Husband/Spouse",
+      "French": "Mari/conjoint",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The husband/spouse is supportive of the woman for pregnancy follow-up (communication within the couple, and being aware of one's responsabilities, etc.)",
     "action": "",
@@ -145,9 +222,17 @@
   },
   {
     "id": 11,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "Encourages prohibited food and the use of indigenous products during pregnancy;",
     "promoted_behavior": "Discourages prohibited food and the use of home remedies during pregnancy. Assisting the pregnant woman in monitoring the four prenatal consultation visits",
     "action": "Discouragement of the use of prohibited food and indigenous products during pregnancy",
@@ -159,9 +244,17 @@
   },
   {
     "id": 12,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Disregards pregnant women at the PNC.",
     "promoted_behavior": " Paying attention to the pregnant woman at prenatal consultations (PNC).",
     "action": "Promoting humanized care",
@@ -173,9 +266,17 @@
   },
   {
     "id": 13,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Poor reception of pregnant women at the PNC.",
     "promoted_behavior": "Make the pregnant woman feel welcome at the prenatal consultation (PNC).",
     "action": "Discussion and implementation of the delivery plan with the pregnant woman at the PNC.",
@@ -187,9 +288,17 @@
   },
   {
     "id": 14,
-    "intervention": "Prenatal Consultation (PNC)",
+    "intervention": {
+      "English": "Prenatal Consultation (PNC)",
+      "French": "Consultation Pré-Natale (CPN)",
+      "Swahili": "Mashauriano ya kabla ya kuzaa (CPN)"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "3/ Does not discuss the delivery plan with pregnant women at the PNC",
     "promoted_behavior": "Discusses delivery plan with pregnant women at the prenatal consultation (PNC).",
     "action": "",
@@ -201,9 +310,17 @@
   },
   {
     "id": 15,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Woman in labor",
+    "target_audience": {
+      "English": "Woman in labor",
+      "French": "Femme en travail d'accouchement",
+      "Swahili": "Mwanamke iko karibu kuzaa"
+    },
     "problem_behavior": "Delay in coming to the facility at the first sign of labor",
     "promoted_behavior": " Decides to go to the facility on time at the first sign of labor",
     "action": "Decision to go to the facility at the first sign of labor",
@@ -215,9 +332,17 @@
   },
   {
     "id": 16,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Woman in labor",
+    "target_audience": {
+      "English": "Woman in labor",
+      "French": "Femme en travail d'accouchement",
+      "Swahili": "Mwanamke iko karibu kuzaa"
+    },
     "problem_behavior": "Refusal to go to the facility for delivery.",
     "promoted_behavior": "Agrees to go to the facility for delivery;",
     "action": "No use of indigenous products to speed up labor.",
@@ -229,9 +354,17 @@
   },
   {
     "id": 17,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Woman in labor",
+    "target_audience": {
+      "English": "Woman in labor",
+      "French": "Femme en travail d'accouchement",
+      "Swahili": "Mwanamke iko karibu kuzaa"
+    },
     "problem_behavior": "Use of indigenous products to speed up labor;",
     "promoted_behavior": "Do not use indigenous products to speed up labor",
     "action": "Decision to go to a health facility on time",
@@ -243,9 +376,17 @@
   },
   {
     "id": 18,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Woman in labor",
+    "target_audience": {
+      "English": "Woman in labor",
+      "French": "Femme en travail d'accouchement",
+      "Swahili": "Mwanamke iko karibu kuzaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Go to a facility that is equipped for delivery.",
     "action": "",
@@ -257,9 +398,17 @@
   },
   {
     "id": 19,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "Failure of healthcare provider to refer pregnant women in labor with a complication in time",
     "promoted_behavior": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
     "action": "Proper monitoring of a woman in labor",
@@ -271,9 +420,17 @@
   },
   {
     "id": 20,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Prompt referral of pregnant women in labor with a complication is done by the healthcare provider.",
     "action": "",
@@ -285,9 +442,17 @@
   },
   {
     "id": 21,
-    "intervention": "Assisted delivery",
+    "intervention": {
+      "English": "Assisted delivery",
+      "French": "Accouchement assisté",
+      "Swahili": "Kupata msaada wakati wa kuzaa"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Prompt referral of pregnant women in labor with a complication by the healthcare provider.",
     "action": "",
@@ -299,9 +464,17 @@
   },
   {
     "id": 22,
-    "intervention": "Postnatal Consultation (CPoN)",
+    "intervention": {
+      "English": "Postnatal Consultation",
+      "French": "Consultation Post-Natale (CPoN)",
+      "Swahili": "Mashauriano ya baada ya kuzaa (CPon)"
+    },
     "general_audience": "Women",
-    "target_audience": "Immediate and late postpartum women",
+    "target_audience": {
+      "English": "Immediate and late postpartum women",
+      "French": "Femme en post partum immédiat et tardif",
+      "Swahili": "Mwanamke katika postpartum (kipindi cha baada ya kuzaa) ya haraka na ya kuchelewa"
+    },
     "problem_behavior": "Women in postpartum do not know the danger signs after delivery.",
     "promoted_behavior": " Women in postpartum know the danger signs after delivery.",
     "action": "Prompt consultation at the health center in case of any of the danger signs",
@@ -313,9 +486,17 @@
   },
   {
     "id": 23,
-    "intervention": "Postnatal Consultation (CPoN)",
+    "intervention": {
+      "English": "Postnatal Consultation",
+      "French": "Consultation Post-Natale (CPoN)",
+      "Swahili": "Mashauriano ya baada ya kuzaa (CPon)"
+    },
     "general_audience": "Women",
-    "target_audience": "Immediate and late postpartum women",
+    "target_audience": {
+      "English": "Immediate and late postpartum women",
+      "French": "Femme en post partum immédiat et tardif",
+      "Swahili": "Mwanamke katika postpartum (kipindi cha baada ya kuzaa) ya haraka na ya kuchelewa"
+    },
     "problem_behavior": "Women in postpartum do not use a contraceptive method before leaving the maternity ward",
     "promoted_behavior": " Women in postpartum use a contraceptive method before leaving the maternity ward",
     "action": "Use of a contraceptive method before leaving the maternity ward",
@@ -327,9 +508,17 @@
   },
   {
     "id": 24,
-    "intervention": "Consultation in time for comprehensive abortion care",
+    "intervention": {
+      "English": "Consultation in time for comprehensive abortion care",
+      "French": "Consultation à temps pour soins complets d'avortement",
+      "Swahili": "Mashauriano kwa wakati kwa utunzaji kamili wa utoaji mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Women",
+    "target_audience": {
+      "English": "Women",
+      "French": "Femmes",
+      "Swahili": "Mwanamke"
+    },
     "problem_behavior": "Women who carry unwanted pregnancies have clandestine abortions",
     "promoted_behavior": " Women with unwanted pregnancies receive comprehensive abortion care in appropriate facilities",
     "action": "Consultation in time for comprehensive abortion care",
@@ -341,9 +530,17 @@
   },
   {
     "id": 25,
-    "intervention": "Use of comprehensive abortion care services",
+    "intervention": {
+      "English": "Use of comprehensive abortion care services",
+      "French": "Utilisation des services des soins complets d'avortement",
+      "Swahili": "Matumizi ya huduma kamili za utunzaji wa utoaji mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Women",
+    "target_audience": {
+      "English": "Women",
+      "French": "Femmes",
+      "Swahili": "Mwanamke"
+    },
     "problem_behavior": "Women do not know the danger signs after abortion",
     "promoted_behavior": "Women know the danger signs after abortion",
     "action": "Use of comprehensive abortion care services",
@@ -355,9 +552,17 @@
   },
   {
     "id": 26,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Women",
+    "target_audience": {
+      "English": "Women",
+      "French": "Femmes",
+      "Swahili": "Mwanamke"
+    },
     "problem_behavior": "Women do not use contraception after abortion",
     "promoted_behavior": "Women choose to use contraception after abortion",
     "action": "Using contraception as an option after abortion",
@@ -369,9 +574,17 @@
   },
   {
     "id": 27,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "The healthcare provider does not give the correct information to women after abortion.",
     "promoted_behavior": "Healthcare providers properly inform women about comprehensive abortion care, benefits, possible risks, importance of contraception, etc.",
     "action": "Provide women with accurate information about comprehensive abortion care - benefits, possible risks, importance of contraception",
@@ -383,9 +596,17 @@
   },
   {
     "id": 28,
-    "intervention": "Using safe methods of uterine evacuation",
+    "intervention": {
+      "English": "Using safe methods of uterine evacuation",
+      "French": "Utiliser des méthodes sûres d'évacuation utérine",
+      "Swahili": "Kutumia njia salama za uokoaji wa uterasi"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "Providers use obsolete uterine evacuation methods (curettage, forced cervical dilation, no pain management, etc.)",
     "promoted_behavior": "Healthcare providers use safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, Nonsteroidal anti-inflammatory drugs (NSAIDs), para cervical block).",
     "action": "Use of safe methods of uterine evacuation (Manual Intra-Uterine Aspiration, misoprostol, mifepristone, pain management, AINS, para cervical block)",
@@ -397,9 +618,17 @@
   },
   {
     "id": 29,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Clinical care provider",
+    "target_audience": {
+      "English": "Clinical care provider",
+      "French": "Prestataire Clinique",
+      "Swahili": "Mtoa huduma wa kliniki"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Healthcare providers always administer a contraceptive method to all women after abortion care.",
     "action": "",
@@ -411,9 +640,17 @@
   },
   {
     "id": 30,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "The community stigmatizes women who perform abortions",
     "promoted_behavior": " The community supports women with unwanted pregnancies for comprehensive abortion care",
     "action": "Provide the community with correct information on comprehensive abortion care, benefits, possible risks, importance of contraception, etc.",
@@ -425,9 +662,17 @@
   },
   {
     "id": 31,
-    "intervention": "Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "The community is not fully informed about the availability of free comprehensive abortion care services (SCACF)",
     "promoted_behavior": "The community is fully informed about the availability of free comprehensive abortion care services centered on women.",
     "action": "Provide correct information about free comprehensive abortion care services",
@@ -439,9 +684,17 @@
   },
   {
     "id": 32,
-    "intervention": " Using contraception as an option after abortion",
+    "intervention": {
+      "English": "Using contraception as an option after abortion",
+      "French": "Utilisation de la contraception au choix après avortement",
+      "Swahili": "Kuchagua njia ya kuzuia mimba baada ya utoaji mimba"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The community is fully informed about the availability of free comprehensive abortion care services centered on women.",
     "action": "",
@@ -453,9 +706,17 @@
   },
   {
     "id": 33,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Does not provide the newborn with basic care",
     "promoted_behavior": "Healthcare provider always provides the newborn with complete basic care.",
     "action": "Systematic administration of complete basic care to the newborn",
@@ -467,9 +728,17 @@
   },
   {
     "id": 34,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "Does not exclusively breastfeed the baby",
     "promoted_behavior": "The mother exclusively breastfeeds the baby.",
     "action": "Exclusive breastfeeding",
@@ -481,9 +750,17 @@
   },
   {
     "id": 35,
-    "intervention": " Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The mother exclusively breastfeeds the baby.",
     "action": "",
@@ -495,9 +772,17 @@
   },
   {
     "id": 36,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "Do not sleep under the LLIN, leaving the baby exposed to bad weather",
     "promoted_behavior": " The mother and the baby sleep under the Long-lasting Insecticidal Net (LLIN).",
     "action": "Proper use of the LLIN",
@@ -509,9 +794,17 @@
   },
   {
     "id": 37,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "Do not go to the HC as soon as the newborn shows danger signs",
     "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "Taking care of the newborn at home (protecting the baby from heat, cold and dressing the baby",
@@ -523,9 +816,17 @@
   },
   {
     "id": 38,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Protects the baby from bad weather.",
     "action": "",
@@ -537,9 +838,17 @@
   },
   {
     "id": 39,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "",
@@ -551,9 +860,17 @@
   },
   {
     "id": 40,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Go to healthcare facility as soon as the newborn shows signs of danger.",
     "action": "",
@@ -565,9 +882,17 @@
   },
   {
     "id": 41,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "Wash hands before and after nursing the newborn.",
     "action": "",
@@ -579,9 +904,17 @@
   },
   {
     "id": 42,
-    "intervention": "Use of contraceptive methods",
+    "intervention": {
+      "English": "Use of contraceptive methods",
+      "French": "Utilisation des méthodes contraceptives",
+      "Swahili": "kuchagua njia za kuzuia mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Sexually active woman of childbearing age, married or not",
+    "target_audience": {
+      "English": "Sexually active woman of childbearing age, married or not",
+      "French": "Femme en âge de procréer sexuellement active mariée ou non",
+      "Swahili": "Mwanamke wa umri wa kuzaa, aliyeolewa au asiyeolewa"
+    },
     "problem_behavior": "Unwanted pregnancies",
     "promoted_behavior": " Women of childbearing age use contraception of their choice",
     "action": "Use of contraceptive method of choice.",
@@ -593,9 +926,17 @@
   },
   {
     "id": 43,
-    "intervention": "Use of contraceptive methods",
+    "intervention": {
+      "English": "Use of contraceptive methods",
+      "French": "Utilisation des méthodes contraceptives",
+      "Swahili": "kuchagua njia za kuzuia mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Sexually active woman of childbearing age, married or not",
+    "target_audience": {
+      "English": "Sexually active woman of childbearing age, married or not",
+      "French": "Femme en âge de procréer sexuellement active mariée ou non",
+      "Swahili": "Mwanamke wa umri wa kuzaa, aliyeolewa au asiyeolewa"
+    },
     "problem_behavior": "Practice of clandestine abortions 3/ Pregnancies that are too close.",
     "promoted_behavior": " Women use contraception of their choice after abortion",
     "action": "",
@@ -607,9 +948,17 @@
   },
   {
     "id": 44,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
@@ -621,9 +970,17 @@
   },
   {
     "id": 45,
-    "intervention": "Newborn care",
+    "intervention": {
+      "English": "Newborn care",
+      "French": "Soins du Nouveau-né",
+      "Swahili": "Huduma ya Msingi"
+    },
     "general_audience": "Women",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The mother complies with the vaccination schedule.",
     "action": "",
@@ -635,9 +992,17 @@
   },
   {
     "id": 46,
-    "intervention": "Management of side effects",
+    "intervention": {
+      "English": "Management of side effects",
+      "French": "Prise en charge des effets secondaires",
+      "Swahili": "Usimamizi wa matatizo zinazotokea katika matumizi ya njia za kuzuia mimba"
+    },
     "general_audience": "Women",
-    "target_audience": "Woman using a contraceptive method",
+    "target_audience": {
+      "English": "Woman using a contraceptive method",
+      "French": "Femme utilisatrice d'une méthode contraceptive",
+      "Swahili": "Mwanamke atumia njia ya kuzuia mimba"
+    },
     "problem_behavior": "Discontinuation of the method due to side effects or rumors",
     "promoted_behavior": " Women with side effects consult a qualified provider before discontinuing the method",
     "action": "Timely consultation at the health center in case of side effects that bother the woman",
@@ -649,9 +1014,17 @@
   },
   {
     "id": 47,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "The pregnant woman is not adequately informed at the PNC about the importance of using contraceptive methods after delivery.",
     "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "Informing pregnant women about the use of contraceptive methods",
@@ -663,9 +1036,17 @@
   },
   {
     "id": 48,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Women",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "",
     "promoted_behavior": "The pregnant woman is adequately informed at the prenatal consultation (PNC) about the importance of using contraceptive methods after delivery.",
     "action": "",
@@ -677,9 +1058,17 @@
   },
   {
     "id": 49,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider to women in labor in the latency phase",
+    "target_audience": {
+      "English": "Healthcare provider to women in labor in the latency phase",
+      "French": "Prestataire auprès de la femme en travail en phase de latence",
+      "Swahili": "Mtoa huduma kwa wanawake wakati wa kuzaa katika phase ya latence"
+    },
     "problem_behavior": "The healthcare provider does not check with the woman in labor for information on the choice of contraception",
     "promoted_behavior": "Healthcare provider checks with the woman in labor for information on contraceptive choice",
     "action": "Systematic checking of information on prior contraceptive choice with the woman in labor",
@@ -691,9 +1080,17 @@
   },
   {
     "id": 50,
-    "intervention": "Use of contraceptive methods in the postpartum period",
+    "intervention": {
+      "English": "Use of contraceptive methods in the postpartum period",
+      "French": "Utilisation des méthodes contraceptives en post partum",
+      "Swahili": "Matumizi ya njia za kuzuia mimba baada ya kuzaa"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider to women in labor in the latency phase",
+    "target_audience": {
+      "English": "Healthcare provider to women in labor in the latency phase",
+      "French": "Prestataire auprès de la femme en travail en phase de latence",
+      "Swahili": "Mtoa huduma kwa wanawake wakati wa kuzaa katika phase ya latence"
+    },
     "problem_behavior": "Healthcare providers do not give contraceptive counseling to women in labor",
     "promoted_behavior": "Healthcare provider gives contraceptive counseling to the woman in labor",
     "action": "Systematic initiation of contraceptive counseling for women in labor who have not yet chosen a contraceptive method",
@@ -705,9 +1102,17 @@
   },
   {
     "id": 51,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Women and Men",
-    "target_audience": "Survivor of Sexual and Gender-Based Violence (SGBV)",
+    "target_audience": {
+      "English": "Survivor of Sexual and Gender-Based violence (SGBV)",
+      "French": "Survivant des violences sexuelles basées sur le genre",
+      "Swahili": "Survivant wa unyanyasaji ya kijinsia (SGBV)"
+    },
     "problem_behavior": "Do not denounce the damage suffered",
     "promoted_behavior": "Report any case of violence",
     "action": "Reporting all cases of rape",
@@ -719,9 +1124,17 @@
   },
   {
     "id": 52,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "Stigmatizes the victim of sexual violence",
     "promoted_behavior": " Stop stigmatizing the victim of sexual violence",
     "action": "Promotion of care services for survivors of SGBV victims",
@@ -733,9 +1146,17 @@
   },
   {
     "id": 53,
-    "intervention": "Sexual and Gender-Based Violence (SGBV)",
+    "intervention": {
+      "English": "Sexual and Gender-Based violence (SGBV)",
+      "French": "Violences Sexuelles et Basées sur le Genre (SGBV)",
+      "Swahili": "Unyanyasaji ya Kijinsia (SGBV)"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Fails to provide timely and appropriate care to the survivor of SGBV.",
     "promoted_behavior": " Provides timely and appropriate care to the survivor of Sexual and Gender-Based Violence (SGBV).",
     "action": "Holistic care for survivors of SGBV.",
@@ -747,9 +1168,17 @@
   },
   {
     "id": 54,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Healthcare Provider",
-    "target_audience": "Healthcare provider",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Harmful and inappropriate practices (non-use of partograms during labor monitoring, Christeller maneuver, ...)",
     "promoted_behavior": " Applies recommended practices (use of partograms during labor monitoring, ...)",
     "action": "Application of recommended practices to save women's lives (use of partograms during labor monitoring, ...)",
@@ -761,9 +1190,17 @@
   },
   {
     "id": 55,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Women and Men",
-    "target_audience": "Fistula patient",
+    "target_audience": {
+      "English": "Fistula patient",
+      "French": "Porteuse de fistule",
+      "Swahili": "Mgonjwa wa fistule"
+    },
     "problem_behavior": "Fistula patients hide and are ashamed",
     "promoted_behavior": "Do not hide, go to the health facility for appropriate care.",
     "action": "Consultation in health facilities to benefit from fistula repair",
@@ -775,9 +1212,17 @@
   },
   {
     "id": 56,
-    "intervention": "Treatment of urogenital fistula",
+    "intervention": {
+      "English": "Treatment of urogenital fistula",
+      "French": "Prise en charge de fistule urogénitale",
+      "Swahili": "Usimamizi wa fistule urogénitale"
+    },
     "general_audience": "Community",
-    "target_audience": "Community",
+    "target_audience": {
+      "English": "Community",
+      "French": "Communauté",
+      "Swahili": " Jamii"
+    },
     "problem_behavior": "Stigmatization of fistula patients",
     "promoted_behavior": "Stop stigmatizing urogenital fistula patients.",
     "action": "Assisting patients with urogenital fistulas in the repair process",
@@ -789,9 +1234,17 @@
   },
   {
     "id": 57,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Some pregnant women do not comply with the 4 PNC visits to receive counseling on the benefits of breastfeeding immediately after delivery or do not observe breastfeeding within one hour after delivery.",
     "promoted_behavior": "Pregnant women comply with the prenatal consultation (PNC) to receive counseling on the benefits of breastfeeding their newborns immediately after delivery.",
     "action": "",
@@ -803,9 +1256,17 @@
   },
   {
     "id": 58,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "Breastfeeding women",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
     "action": "",
@@ -817,9 +1278,17 @@
   },
   {
     "id": 59,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "Breastfeeding women",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
     "action": "",
@@ -831,9 +1300,17 @@
   },
   {
     "id": 60,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Some women are not provided with information on breastfeeding immediately after delivery.",
     "promoted_behavior": "Women receive information about breastfeeding their newborns immediately after delivery.",
     "action": "",
@@ -845,9 +1322,17 @@
   },
   {
     "id": 61,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Some men do not encourage or support their wives to attend PNC appointments for information and counseling on breastfeeding newborns immediately after delivery.",
     "promoted_behavior": "Men encourage and support their wives to attend prenatal consultation (PNC) appointments to receive information and counseling on breastfeeding newborns immediately after delivery.",
     "action": "",
@@ -859,9 +1344,17 @@
   },
   {
     "id": 62,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Some healthcare providers do not assist or encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
     "promoted_behavior": "Healthcare providers assist and encourage women to breastfeed their newborns within one hour after delivery",
     "action": "",
@@ -873,9 +1366,17 @@
   },
   {
     "id": 63,
-    "intervention": "Breastfeeding within one hour after delivery.",
+    "intervention": {
+      "English": "Breastfeeding within one hour after delivery.",
+      "French": "Mise au sein dans l'heure qui suit l'accouchement.",
+      "Swahili": "Unyonyeshaji ndani ya saa moja baada ya kuzaa."
+    },
     "general_audience": "",
-    "target_audience": "Community members",
+    "target_audience": {
+      "English": "Community members",
+      "French": "Les membres de la communauté",
+      "Swahili": "Wanajamii"
+    },
     "problem_behavior": "Community members do not encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
     "promoted_behavior": "Community members encourage breastfeeding women to breastfeed their newborns immediately after delivery.",
     "action": "",
@@ -887,9 +1388,17 @@
   },
   {
     "id": 64,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
     "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
     "action": "",
@@ -901,9 +1410,17 @@
   },
   {
     "id": 65,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
     "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
     "action": "",
@@ -915,9 +1432,17 @@
   },
   {
     "id": 66,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
     "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
     "action": "",
@@ -929,9 +1454,17 @@
   },
   {
     "id": 67,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Women do not respect exclusive and regular breastfeeding of their babies.",
     "promoted_behavior": "Women respect exclusive and regular breastfeeding.",
     "action": "",
@@ -943,9 +1476,17 @@
   },
   {
     "id": 68,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
     "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
     "action": "",
@@ -957,9 +1498,17 @@
   },
   {
     "id": 69,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Men (husband) do not encourage women to exclusively breastfeed their infants but rather induce them to give something else.",
     "promoted_behavior": "Men (Husbands) encourage and urge women to exclusively breastfeed their infants on a regular basis.",
     "action": "",
@@ -971,9 +1520,17 @@
   },
   {
     "id": 70,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers (Clinical and Community)",
+    "target_audience": {
+      "English": "Healthcare providers (Clinical and Community)",
+      "French": "Prestataires (Clinique et Communautaire)",
+      "Swahili": "Watoa huduma (Kliniki na Jamii)"
+    },
     "problem_behavior": "Healthcare providers do not encourage women to exclusively breastfeed infants on a regular basis, and encourage them to engage in other practices",
     "promoted_behavior": "Healthcare providers encourage and counsel women to exclusively breastfeed their infants on a regular basis",
     "action": "",
@@ -985,9 +1542,17 @@
   },
   {
     "id": 71,
-    "intervention": "Exclusive breastfeeding up to 6 months",
+    "intervention": {
+      "English": "Exclusive breastfeeding up to 6 months.",
+      "French": "Allaitement exclusif jusqu'à 6 mois.",
+      "Swahili": "Unyonyeshaji wa kipekee hadi miezi 6."
+    },
     "general_audience": "",
-    "target_audience": "Community members",
+    "target_audience": {
+      "English": "Community members",
+      "French": "Membres de la Communauté",
+      "Swahili": "Wanajamii"
+    },
     "problem_behavior": "They do not encourage women to use only breast milk to feed their babies",
     "promoted_behavior": "They encourage women to use only breast milk to feed their babies.",
     "action": "",
@@ -999,9 +1564,17 @@
   },
   {
     "id": 72,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Women do not breastfeed children up to 2 years and beyond.",
     "promoted_behavior": "Women breastfeed children up to 2 years and beyond",
     "action": "",
@@ -1013,9 +1586,17 @@
   },
   {
     "id": 73,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Men do not encourage their wives to breastfeed children up to 2 years and beyond",
     "promoted_behavior": "Men encourage their wives to breastfeed children up to 2 years and beyond",
     "action": "",
@@ -1027,9 +1608,17 @@
   },
   {
     "id": 74,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Health providers",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Healthcare providers do not encourage women to breastfeed children until they are 2 years old or older.",
     "promoted_behavior": "Healthcare providers encourage women to breastfeed children until they are 2 years old or older.",
     "action": "",
@@ -1041,9 +1630,17 @@
   },
   {
     "id": 75,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Community members",
+    "target_audience": {
+      "English": " Community members",
+      "French": "Membres de la Communauté",
+      "Swahili": "Wanajamii"
+    },
     "problem_behavior": "Community members discourage women from continuous breastfeeding practices for 2-year-olds.",
     "promoted_behavior": "Community members encourage women in continuous breastfeeding practices for 2-year-olds.",
     "action": "",
@@ -1055,9 +1652,17 @@
   },
   {
     "id": 76,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
     "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
     "action": "",
@@ -1069,9 +1674,17 @@
   },
   {
     "id": 77,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Breastfeeding women do not respect the number and variety of meals for children from 6 months of age.",
     "promoted_behavior": "Breastfeeding women respect the number and variety of meals for children from 6 months of age.",
     "action": "",
@@ -1083,9 +1696,17 @@
   },
   {
     "id": 78,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband) and community members",
+    "target_audience": {
+      "English": "Man (husband) and community members",
+      "French": "Homme (mari) et membres de la communauté",
+      "Swahili": "Mwanaume (mume) na wanajamii"
+    },
     "problem_behavior": "Men and community members do not encourage or support women to respect the number and variety of meals for children from 6 months of age.",
     "promoted_behavior": "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
     "action": "",
@@ -1097,9 +1718,17 @@
   },
   {
     "id": 79,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
     "promoted_behavior": "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
     "action": "",
@@ -1111,9 +1740,17 @@
   },
   {
     "id": 80,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Pregnant women",
+    "target_audience": {
+      "English": "Pregnant women",
+      "French": "Femmes enceinte",
+      "Swahili": "Mwanamke mjamzito"
+    },
     "problem_behavior": "Pregnant women do not consume sufficient and varied foods.",
     "promoted_behavior": "Pregnant women consume sufficient and varied foods.",
     "action": "",
@@ -1125,9 +1762,17 @@
   },
   {
     "id": 81,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Some breastfeeding women do not consume a sufficient variety of foods.",
     "promoted_behavior": "All women consume a sufficient variety of foods.",
     "action": "",
@@ -1139,9 +1784,17 @@
   },
   {
     "id": 82,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Man (husband) and community members",
+    "target_audience": {
+      "English": "Man (husband) and community members",
+      "French": "Homme (mari) et membres de la communauté",
+      "Swahili": "Mwanaume (mume) na wanajamii"
+    },
     "problem_behavior": "Husbands do not support their wives to consume sufficient variety of foods.",
     "promoted_behavior": "Husbands support their wives to consume sufficient variety of foods.",
     "action": "",
@@ -1153,9 +1806,17 @@
   },
   {
     "id": 83,
-    "intervention": "Breastfeeding continues until the child is 2 years old or older",
+    "intervention": {
+      "English": "Breastfeeding continues until the child is 2 years old or older.",
+      "French": "L’allaitement continue jusqu'à 2 ans et plus.",
+      "Swahili": "Unyonyeshaji unaendelea hadi miaka 2 na zaidi."
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Healthcare providers do not adequately inform women about eating a variety of foods.",
     "promoted_behavior": "Healthcare providers adequately inform women about eating a variety of foods.",
     "action": "",
@@ -1167,9 +1828,17 @@
   },
   {
     "id": 84,
-    "intervention": "Vaccination",
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
     "promoted_behavior": "Women comply with the infant vaccination schedule.",
     "action": "",
@@ -1181,9 +1850,17 @@
   },
   {
     "id": 85,
-    "intervention": "Vaccination",
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
     "promoted_behavior": "Women comply with the infant vaccination schedule.",
     "action": "",
@@ -1195,9 +1872,17 @@
   },
   {
     "id": 86,
-    "intervention": "Vaccination",
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Husbands do not encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
     "promoted_behavior": "Husbands assist and encourage their wives to comply with the vaccination schedule for infants aged 0 to 9 months.",
     "action": "",
@@ -1209,9 +1894,17 @@
   },
   {
     "id": 87,
-    "intervention": "Vaccination",
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
     "promoted_behavior": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
     "action": "",
@@ -1223,9 +1916,17 @@
   },
   {
     "id": 88,
-    "intervention": "Vaccination",
+    "intervention": {
+      "English": "Vaccination",
+      "French": "Vaccination",
+      "Swahili": "Chanjo"
+    },
     "general_audience": "",
-    "target_audience": "Community members",
+    "target_audience": {
+      "English": "Community members",
+      "French": "Membres de la communauté",
+      "Swahili": "Wanajamii"
+    },
     "problem_behavior": "Community members do not encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months.",
     "promoted_behavior": "Community members encourage breastfeeding women to attend routine monthly vaccination of infants aged 0-9 months ",
     "action": "",
@@ -1237,11 +1938,19 @@
   },
   {
     "id": 89,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "Breastfeeding women",
+    "target_audience": {
+      "English": "Breastfeeding women",
+      "French": "Femme allaitantes",
+      "Swahili": "Wanawake wanaonyonyesha"
+    },
     "problem_behavior": "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
-    "promoted_behavior": "Breastfeeding women comply with CPS appointments for children 0-59 months of age.",
+    "promoted_behavior": "Breastfeeding women comply with preschool consultation (PSC) appointments for children 0-59 months of age.",
     "action": "",
     "message": {
       "English": "Mother, take your child to the preschool consultation until the age of 59 months for the proper monitoring of his growth.",
@@ -1251,9 +1960,17 @@
   },
   {
     "id": 90,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Men do not provide support to women in preschool consultation.",
     "promoted_behavior": "Men provide their support to women in preschool consultation.",
     "action": "",
@@ -1265,9 +1982,17 @@
   },
   {
     "id": 91,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "Healthcare providers ",
+    "target_audience": {
+      "English": "Healthcare provider",
+      "French": "Prestataire",
+      "Swahili": "Mtoa huduma"
+    },
     "problem_behavior": "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
     "promoted_behavior": "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
     "action": "",
@@ -1279,9 +2004,17 @@
   },
   {
     "id": 92,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "Community members",
+    "target_audience": {
+      "English": "Community members",
+      "French": "Membres de la communauté",
+      "Swahili": "Wanajamii"
+    },
     "problem_behavior": "Community members do not encourage women to comply with preschool appointments up to 59 months.",
     "promoted_behavior": "Community members encourage women to comply with preschool appointments up to 59 months.",
     "action": "",
@@ -1293,9 +2026,17 @@
   },
   {
     "id": 93,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "The mother",
+    "target_audience": {
+      "English": "The mother",
+      "French": "Femme accouchée",
+      "Swahili": "Mwanamke aliyezaa"
+    },
     "problem_behavior": "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
     "promoted_behavior": "Mothers respect the post natal consultation (PoNC) service.",
     "action": "",
@@ -1307,9 +2048,17 @@
   },
   {
     "id": 94,
-    "intervention": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+    "intervention": {
+      "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
+    },
     "general_audience": "",
-    "target_audience": "Man (husband)",
+    "target_audience": {
+      "English": "Man (husband)",
+      "French": "Homme (mari)",
+      "Swahili": "Mume/mpenzi"
+    },
     "problem_behavior": "Men do not encourage their wives to go to the health center for post natal consultation (PoNC) service",
     "promoted_behavior": "Men encourage their wives to go to the health center for post natal consultation (PoNC) service",
     "action": "",
