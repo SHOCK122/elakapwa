@@ -2,12 +2,27 @@
 <head>
     <link rel="manifest" href="/js/pwa.webmanifest">
     <link rel="apple-touch-icon" href="/images/apple-touch.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#764ABC" />
 </head>
 <body>
-    <span><b class="page-status">online</b></span>
+    <!-- Top Navigation Menu -->
+    <div class="topnav">
+        <span><b class="page-status">online</b></span><!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+        <!-- Navigation links (hidden by default) -->
+        <div id="myLinks">
+            <a href="#">Category</a>
+            <a href="#">Audience</a>
+            <a href="#">Contact</a>
+            <a href="#">About</a>
+        </div>
+        <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+        <a href="javascript:void(0);" class="icon" onclick="burger()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
     <div class="content">
         <p class="message_id hidden">
             <span class="label">
