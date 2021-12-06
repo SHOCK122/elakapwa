@@ -2018,14 +2018,15 @@
     "promoted_behavior": {
       "English": "Men encourage and support their wives to respect the number and variety of children's meals from 6 months of age.",
       "French": "Les hommes encouragent et soutiennent leurs femmes au respect du nombre et variété du repas des enfants à partir de 6 mois.",
-      "Swahili": "Wanaume wanahimiza na kusaidia wake zao kuheshimu idadi na aina ya chakula cha watoto kutoka miezi 6.",
+      "Swahili": "Wanaume wanahimiza na kusaidia wake zao kuheshimu idadi na aina ya chakula cha watoto kutoka miezi 6."
+    },
       "action": "",
       "message": {
         "English": "Father and community members, the health of your baby is very important, encourage and support your wives to give the baby from 6 months a variety of foods such as: meat, fish, egg, milk, papaya, mango, pineapple, cauliflower, spinach, soybeans, bean, peanut, etc,; 3 times a day and two snacks for his healthy growth.",
         "French": "Papa et membres de la communauté, la santé de votre bébé   est primordiale, encouragez et soutenez vos femmes à donner au bébé à partir de 6 mois les aliments variés tels que: viande, poisson, œuf, lait, papaye, mangue, ananas, chou- fleur, épinard, soja, haricot, arachide, etc.; 3 fois par jour et deux collations pour sa bonne croissance.",
         "Swahili": "Baba Mpendwa na wanajamii, afya ya mtoto wako ni muhimu, himiza na kumsaidia mwanamke kumpa mtoto kutoka miezi 6 chakula mbalimbali kama vile: nyama, samaki, mayai, maziwa, papaya, embe, ananas, chou-fleur, épinard, soya, maharage, karanga, etc; mara 3 kwa siku na vitafunio viwili kwa ukuaji wake mzuri."
       }
-    }
+    
   },
     {
       "id": 79,
