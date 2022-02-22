@@ -9,13 +9,13 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women do not comply with the minimum number of PNCs (four visits)",
     "promoted_behavior": {
       "English": "Pregnant women comply with the minimum number of  prenatal cosultations (PNCs) (four visits)",
-      "French": "Les femmes enceintes respectent le nombre minimum de consultation pré-natal (CPN) (quatre visites)",
+      "French": "Les femmes enceintes respectent le nombre minimum de consultation pré-natale (CPN) (quatre visites).",
       "Swahili":"Wanawake wajawazito wana heshimu idadi ya ziara za mashauriano ya kabla ya kuzaa (CPN) (ziara 4)"
     },  
     "action": "Compliance with the minimum number of PNCs (four visits)",
@@ -35,7 +35,7 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women do not utilize preventive measures against malaria (IPT/SP and sleeping under the LLIN)",
@@ -61,7 +61,7 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women do not have a birth plan",
@@ -73,7 +73,7 @@
     "action": "Development of a birth plan",
     "message": {
       "English": "Pregnant women, discuss your birth plan with your healthcare providers during prenatal consultation (PNC) so that you can receive quality care during your delivery to safeguard your health, your life and the life of your unborn child.",
-      "French": "Femmes enceintes discutez du plan d’accouchement avec les prestataires lors de la consultation pré-natale (CPN) afin de recevoir des soins de qualité lors de l’accouchement, pour préserver votre santé et garantir votre survie et celle de votre futur bébé.",
+      "French": "Femmes enceintes discutez du plan d’accouchement avec les prestataires lors de la consultation pré-natale (CPN) afin de recevoir des soins de qualité lors de l’accouchement pour préserver votre santé et garantir votre survie ainsi que celle de votre futur bébé.",
       "Swahili": "Wanawake wajawazito wapendwa, ongeya uzazi wa mpango na watoa huduma (waganga) katika Mashauriano ya kabla ya kuzaa (CPN) ili upate huduma bora wakati wa kuzaa, kulinda na kuhakikisha maisha yako na afya ya mtoto wako."
     }
   },
@@ -87,7 +87,7 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women do not seek help from the HC in time when faced with danger signs",
@@ -113,13 +113,13 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women delay going to the health center in case of danger signs or childbirth",
     "promoted_behavior": {
       "English": "Pregnant women decide in time to seek help from the health center in case of danger signs or childbirth",
-      "French": "Les femmes enceintes décident à temps de recourir au centre de sante en cas de signe de danger ou d’accouchement",
+      "French": "Les femmes enceintes décident à temps de recourir au centre de santé en cas de signe de danger ou d’accouchement.",
       "Swahili": "Wanawake wajawazito wana amua kwa wakati kwenda kituo cha afya ikiwa kuna dalili za hatari au kuzaa"
     },
     "action": "Non-use of indigenous products to speed up labor and delivery; Follow-up of…",
@@ -139,19 +139,19 @@
     "general_audience": "Women",
     "target_audience": { 
       "English": "Pregnant women",
-      "French": "Femmes enceinte",
+      "French": "Femmes enceintes",
       "Swahili": "Mwanamke mjamzito"
     },
     "problem_behavior": "Pregnant women use certain indigenous products to speed up labor and delivery",
     "promoted_behavior": {
       "English": " Pregnant women do not use indigenous products to speed up labor and delivery",
-      "French": "Les femmes enceintes n'utilisent pas les produits indigènes pour accélérer le travail et l'accouchement",
+      "French": "Les femmes enceintes n'utilisent pas les produits indigènes pour accélérer le travail et l'accouchement.",
       "Swahili": "Wanawake wajawazito hawatumii dawa za asili kuharakisha kazi na kuzaa"
     },
     "action": "Informing the woman of the danger signs during…",
     "message": {
       "English": "Pregnant women, go give birth in a health facility to benefit from assisted childbirth and ensure quality care for yourself and your baby.",
-      "French": "Femmes enceintes, allez accoucher dans la formation sanitaire pour bénéficier de l’accouchement assisté et vous assurer des soins de qualités et ceux de votre bébé.",
+      "French": "Femmes enceintes, allez accoucher dans la formation sanitaire pour bénéficier de l’accouchement assisté et vous assurer de recevoir des soins de qualité et de ceux de votre bébé.",
       "Swahili": "Mwanamke mjamzito mpendwa, nenda kuzaa katika kituo cha afya ili wewe na mtoto wako mupate huduma bora."
     }
   },
@@ -203,7 +203,7 @@
     "action": "Escorting the pregnant woman to the PNC",
     "message": {
       "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions: 1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
-      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
+      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale permet à la femme enceinte de bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grâce aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
   },
@@ -223,13 +223,13 @@
     "problem_behavior": "",
     "promoted_behavior": {
       "English": "The husband/spouse decides to seek help from a healthcare facility in case of in case of danger signs or childbirth",
-      "French": "Le mari/conjoint décide de recourir au centre de santé en cas dès l'apparition des signes danger ou d'accouchement",
+      "French": "Le mari/conjoint décide de recourir au centre de santé dès l'apparition de signes de danger ou d'accouchement.",
       "Swahili": "Mume/mpenzi anajua dalili za hatari za ujauzito na anaelekea kwenye kituo cha afya kwa wakati"
     },
     "action": "",
     "message": {
       "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
-      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
+      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale permet à la femme enceinte de bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grâce aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
   },
@@ -255,7 +255,7 @@
     "action": "",
     "message": {
       "English": "Fathers, husbands/spouses, listen carefully: the prenatal consultation allows the pregnant woman to benefit from preventive and curative care, advice on her lifestyle and guarantees her health and that of her unborn child. Thanks to the 4 recommended PNC visits, detection of complications, screening and treatment of infections and other diseases that may occur during pregnancy as well as prevention of transmission of mother-child diseases to ensure good health, harmony of the couple, blossoming of the woman and a good progress of the pregnancy. In order to reduce the dangers associated with pregnancy and childbirth, pregnant women should follow the following six preventive actions:1. Tetanus vaccination; 2. HIV testing to protect the baby; 3. Take the indicated dose of iron and folic acid to avoid anemia; 4. Enriching meals, especially during the first 3 months of pregnancy; 5. Use iodized salt to prevent spontaneous abortion or premature delivery; 6. Sleep under an impregnated net and take the indicated dose of medication to prevent malaria.",
-      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale   permet à la femme enceinte bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grace aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et en prendre la dose indiquée de médicaments pour éviter le paludisme.",
+      "French": "Pères, mari/conjoint, écoutez bien: la consultation prénatale permet à la femme enceinte de bénéficier des soins préventifs et curatifs, des conseils sur son le mode de vie et garantit sa santé et celle de son futur bébé. Grâce aux 4 visites de consultation pré-natale (CPN) recommandées, la détection des complications, le dépistage et le traitement des infections et autres maladies qui peuvent survenir au cours de la grossesse ainsi que la prévention de la transmission de maladies mère-enfant pour assurer la bonne santé, l’harmonie du couple, l’épanouissement de la femme et une bonne évolution de la grossesse. Afin de réduire les dangers liés à la grossesse et à l’accouchement, les femmes enceintes doivent suivre les six actions préventives suivantes: 1. La vaccination contre le tétanos; 2. Le dépistage du VIH pour protéger le bébé; 3. Prendre la dose indiquée de fer et acide folique pour éviter l'anémie; 4. Enrichir les repas, surtout pendant les 3 premiers mois de grossesse; 5. Consommer du sel iodé pour éviter un avortement spontané ou un accouchement prématuré; 6. Dormir sous une moustiquaire imprégnée et prendre la dose indiquée de médicaments pour éviter le paludisme.",
       "Swahili": "Akina baba, waume/wenzi, mashauriano ya kabla ya kuzaa yanamruhusu mwanamke mjamzito kufaidika na utunzaji wa kuzuia ma shida. Ushauri juu ya maisha yake na kuhakikisha afya yake na ya mtoto wake ambaye hajazaliwa. Kupitia ziara 4 zilizopendekezwa za Mashauriano ya kabla ya kuzaa (CPN), kugundua matatizo, uchunguzi na matibabu ya maambukizi na magonjwa mengine ambayo yanaweza kutokea wakati wa ujauzito pamoja na kuzuia maambukizi ya magonjwa ya mama na mtoto ili kuhakikisha afya njema, maelewano ya wanandoa, utimilifu wa mwanamke na maendeleo mazuri ya ujauzito. Ili kupunguza hatari zinazohusiana na ujauzito na kuzaa, wanawake wajawazito wanapaswa kufuata hatua sita zifuatazo: 1. Chanjo ya Tetanus; 2. Upimaji wa VIH kwa kumlinda mtoto; 3. Chukua kipimo kilichoonyeshwa cha madini ya chuma na folic ili kuepuka anemia; 4. Kuimarisha chakula, sana sana katika miezi 3 ya kwanza ya ujauzito; 5. Tumia chumvi iodized ili kuzuia utoaji mimba mapema au kuzaliwa kabla mtoto kufikia miezi 9; 6. Kulala ndani ya vyandarua vilivyowekwa dawa na kuchukua kipimo kilichoonyeshwa cha dawa ili kuepuka malaria."
     }
   },
@@ -275,13 +275,13 @@
     "problem_behavior": "Encourages prohibited food and the use of indigenous products during pregnancy;",
     "promoted_behavior": {
       "English": "Discourages prohibited food and the use of home remedies during pregnancy. Assisting the pregnant woman in monitoring the four prenatal consultation visits",
-      "French": "Décourage les interdits alimentaires et l'utilisation des produits indigènes chez la femme enceinte.Accompagne la femme enceinte dans le suivi des quatre visites de consultation pré-natale.",
+      "French": "Décourage les interdits alimentaires et l'utilisation des produits indigènes chez la femme enceinte. Accompagne la femme enceinte dans le suivi des quatre visites de consultation pré-natale.",
       "Swahili": "Inakataza chakula kilichokatazwa kwa wanawake wajawazito na matumizi ya dawa za asili. Inasaidia mwanamke mjamzito katika ufuatiliaji wa ziara 4 za mashauriano ya kabla ya kuzaa."
     },
     "action": "Discouragement of the use of prohibited food and indigenous products during pregnancy",
     "message": {
       "English": "Dear community members, immediately escort the pregnant woman to the nearest health center or hospital as soon as you observe any of the following signs: bleeding, convulsions, fever, loss of amniotic fluid, difficult breathing, severe headaches, severe pain in the lower abdomen, swelling of the face, hands or feet, disappearance or reduction of the baby's movements, disturbance of vision for the sake of your own care and that of your unborn child.",
-      "French": "Chers membres de la communauté, accompagnez immédiatement la femme enceinte dans un Centre de Santé ou hôpital le plus proche dès que vous observez l’un des signes suivants : saignement, convulsions, fièvre, perte de liquide amniotique, respiration difficile, violents maux de tête, fortes douleurs au bas-ventre, gonflement de visage, des mains ou des pieds, disparition ou diminution des mouvements de bébé, trouble de la vue pour votre prise en charge et celle de votre futur bébé.",
+      "French": "Chers membres de la communauté, accompagnez immédiatement la femme enceinte dans un Centre de Santé ou hôpital le plus proche dès que vous observez l’un des signes suivants : saignement, convulsions, fièvre, perte de liquide amniotique, respiration difficile, violents maux de tête, fortes douleurs au bas-ventre, gonflement de visage, des mains ou des pieds, disparition ou diminution des mouvements de bébé, trouble de la vue pour la prise en charge de la femme enceinte et celle de son futur bébé.",
       "Swahili": "Wanajamii wapendwa, sindikiza mwanamke mjamzito kwenye Kituo cha Afya kilicho karibu au hospitalini unapoona dalili zozote zifuatazo: kutokwa na damu, mtetemeko wa mwili, homa, kupoteza maji, kupumua kwa shida, maumivu makali ya kichwa, maumivu makali chini ya tumbo, uso au mikono au miguu kuvimba, harakati za mtoto zinatoweka au kupunguka, matatizo kuona ili mama na mtoto wapate huduma bora."
     }
   },
@@ -301,7 +301,7 @@
     "problem_behavior": "Disregards pregnant women at the PNC.",
     "promoted_behavior": {
       "English": "Paying attention to the pregnant woman at prenatal consultations (PNC).",
-      "French": "Accorder de l'attention à la femme enceinte à la consultation pré-natale (CPN).",
+      "French": "Accordez de l'attention à la femme enceinte à la consultation pré-natale (CPN).",
       "Swahili": "Anajali mwanamke mjamzito katika mashauriano ya kabla ya kuzaa (CPN)."
     },
     "action": "Promoting humanized care",
@@ -327,13 +327,13 @@
     "problem_behavior": "Poor reception of pregnant women at the PNC.",
     "promoted_behavior": {
       "English": "Make the pregnant woman feel welcome at the prenatal consultation (PNC).",
-      "French": "Réserve un bon accueil à la femme enceinte à la consultation pré-natale (CPN).",
+      "French": "Réservez un bon accueil à la femme enceinte à la consultation pré-natale (CPN).",
       "Swahili": "Anamkaribisha vizuri mwanamke mjamzito kwa mashauriano ya kabla ya kuzaa (CPN)."
     },
     "action": "Discussion and implementation of the delivery plan with the pregnant woman at the PNC.",
     "message": {
       "English": "Dear healthcare providers, prioritize pregnant women to ensure appropriate emergency care and avoid complications.",
-      "French": "Chers prestataires, faites le tri lors de l'accueil de la femme enceinte pour garantir les soins d'urgence appropriées et lui éviter les complications.",
+      "French": "Chers prestataires, faites le tri lors de l'accueil de la femme enceinte pour garantir les soins d'urgence appropriées et lui éviter des complications.",
       "Swahili": "Watoa huduma wapendwa, tanguliza wanawake wajawazito kuhakikisha huduma sahihi za dharura na kuepuka matatizo."
     }
   },
@@ -489,7 +489,7 @@
     "action": "Proper monitoring of a woman in labor",
     "message": {
       "English": "Clinical care providers, take the time to monitor a woman in labor to detect signs of complications in time to ensure proper management.",
-      "French": "Prestataires cliniques, prenez votre temps d'assurer la surveillance d'une femme en travail afin de détecter à temps les signes de complication et d'assurer une prise en charge adéquate.",
+      "French": "Prestataires cliniques, prenez le temps d'assurer la surveillance d'une femme en travail afin de détecter à temps les signes de complication et d'assurer une prise en charge adéquate.",
       "Swahili": "Watoa huduma wapendwa wa kliniki, chukua muda wako kumfuatilia mwanamke aliye katika kazi ya kuzaa ili kugundua dalili za matatizo kwa wakati na uhakikishe utunzaji wa kutosha."
     }
   },
@@ -567,7 +567,7 @@
     "action": "Prompt consultation at the health center in case of any of the danger signs",
     "message": {
       "English": "Dear women, after delivery, go to the nearest health center as soon as you notice any of the following signs (persistent bleeding, convulsion, fever and chills, foul-smelling vaginal discharge, headaches and anemia) to receive appropriate care",
-      "French": "Chères accouchées, ATTENTION ! Chères femmes, après accouchement rendez-vous au centre de santé le plus proche dès que vous constatez l'un des signes ci-dessous (saignement persistant, convulsion, fièvre et frisson, perte vaginales malodorantes maux de tête et anémie) pour bénéficier de soins appropriés.",
+      "French": "Chères accouchées, ATTENTION! Chères femmes, après accouchement rendez-vous au centre de santé le plus proche dès que vous constatez l'un des signes ci-dessous (saignement persistant, convulsion, fièvre et frisson, perte vaginales malodorantes maux de tête et anémie) pour bénéficier de soins appropriés.",
       "Swahili": "Wanawake wapendwa, baada ya kuzaa, nenda kwenye kituo cha afya kilicho karibu unapoona dalili zozote zifuatazo (kutokwa na damu, mtetemeko wa mwili, homa na baridi, kutokwa na harufu ya uke, maumivu ya kichwa na anemia) kupata huduma inayofaa."
     }
   },
@@ -593,7 +593,7 @@
     "action": "Use of a contraceptive method before leaving the maternity ward",
     "message": {
       "English": "Dear women, after delivery, use a contraceptive method of your choice after delivery and before leaving the maternity ward to avoid unwanted pregnancies and unsafe pregnancies spacing to ensure your well-being, that of your baby and your family",
-      "French": "Chères accouchées, ATTENTION ! Chères femmes, utilisez une méthode contraceptive de votre choix après l'accouchement et avant de quitter la maternité pour éviter les grossesses non désirées et rapprochées. Ceci assurera votre bien être, celui de votre bébé et de votre famille.",
+      "French": "Chères accouchées, ATTENTION! Chères femmes, utilisez une méthode contraceptive de votre choix après l'accouchement et avant de quitter la maternité pour éviter les grossesses non désirées et rapprochées. Ceci assurera votre bien être, celui de votre bébé et de votre famille.",
       "Swahili": "Wanawake wapendwa, baada ya kuzaa, tumia njia ya uzazi wa mpango ya uchaguzi wako kabla ya kuondoka katika kituo cha afya ili kuepuka mimba zisizohitajika na ujauzito wa karibu ili kuhakikisha afya bora wako, wa mtoto na familia yako."
     }
   },
@@ -1932,7 +1932,7 @@
     },
     "general_audience": "",
      "target_audience": { 
-      "English": " Community members",
+      "English": "Community members",
       "French": "Membres de la Communauté",
       "Swahili": "Wanajamii"
     },
@@ -2043,13 +2043,13 @@
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
     "promoted_behavior": {
       "English": "Healthcare providers adequately inform breastfeeding mothers about appropriate complementary feeding practices for babies from 6 months of age.",
-      "French": "Les prestataires informent suffisamment les femmes à allaitantes sur la pratique d'alimentation de complément adéquat pour le bébé à partir de 6 mois.",
+      "French": "Les prestataires informent suffisamment les femmes allaitantes sur la pratique d'alimentation de compléments adéquats pour le bébé à partir de 6 mois.",
       "Swahili": "Watoa huduma wanatoa taarifa za kutosha kwa wanawake wanaonyonyesha juu ya mazoezi ya ulishaji wa kutosha kwa watoto kutoka miezi 6."
     },
     "action": "",
     "message": {
       "English": "Healthcare providers, provide adequate information to women with babies from 6 months onwards on the variety of protein foods of animal origin (meat, fish, egg and milk); of vegetable origin (fruits and vegetables: papaya, mango, pineapple, cauliflower, spinach, etc.); legumes (soybeans, beans, peanuts, etc.) 3 times a day and two snacks for the healthy growth of their babies.",
-      "French": "Prestataires, donnez les informations suffisantes aux femmes ayant des bébés à partir de 6 mois sur la variété des aliments en protéine d'origine animale (viande, poisson, œuf et lait); d'origine végétale (fruits et légumes: Papaye, mangue, ananas, chou- fleur, épinard, etc.); le légumineuse (soja, haricot, arachide, etc.) 3 fois par jour et deux collations  pour la bonne  croissance de leurs bébés.",
+      "French": "Prestataires, donnez les informations suffisantes aux femmes ayant des bébés à partir de 6 mois sur la variété des aliments en protéine d'origine animale (viande, poisson, œuf et lait); d'origine végétale (fruits et légumes: papaye, mangue, ananas, chou- fleur, épinard, etc.); le légumineuse (soja, haricot, arachide, etc.) 3 fois par jour et deux collations pour la bonne croissance de leurs bébés.",
       "Swahili": "Watoa huduma wapendwa, wape taarifa za kutosha kwa wanawake wenye watoto kutoka miezi 6 juu ya aina mbalimbali za vyakula yenye protini kutoka kwa wanyama (nyama, samaki, mayai na maziwa); mboga (matunda na mboga: papaya, embe, ananas, chou-fleur, épinard, etc.);  (soya, maharage, karanga, etc.) mara 3 kwa siku na vitafunio viwili kwa ukuaji sahihi wa watoto wao."
     }
   },
@@ -2069,13 +2069,13 @@
     "problem_behavior": "Pregnant women do not consume sufficient and varied foods.",
     "promoted_behavior": {
       "English": "Pregnant women consume sufficient and varied foods.",
-      "French": "Les femmes enceintes consomment    les aliments variés et suffisants.",
+      "French": "Les femmes enceintes consomment des aliments variés et suffisants.",
       "Swahili": "Wanawake wajawazito wana tumia vyakula mbalimbali na vya kutosha."
     },
     "action": "",
     "message": {
       "English": "Pregnant women, eat a variety of foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to maintain your health and the health of your unborn child.",
-      "French": "Femmes enceintes, consommez les aliments variés suffisants tels que la viande, le poisson, le haricot, le soja, l’arachide, niébé, ananas, bananes, mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du futur bébé",
+      "French": "Femmes enceintes, consommez des aliments variés tels que la viande, le poisson, le haricot, le soja, l’arachide, niébé, ananas, bananes, mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du futur bébé.",
       "Swahili": "Wapendwa wanawake wajawazito, unahitaji kula vyakula mbalimbali kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. kula mara mbili zaidi ili kuhakikisha afya yako na ya mtoto wako."
     }
   },
@@ -2089,13 +2089,13 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Some breastfeeding women do not consume a sufficient variety of foods.",
     "promoted_behavior": {
       "English": "All women consume a sufficient variety of foods.",
-      "French": "Toutes les femmes consomment les aliments variés suffisants.",
+      "French": "Toutes les femmes consomment des aliments variés suffisants.",
       "Swahili": "Wanawake wote wana tumia vyakula mbalimbali vya kutosha."
     },
     "action": "",
@@ -2121,13 +2121,13 @@
     "problem_behavior": "Husbands do not support their wives to consume sufficient variety of foods.",
     "promoted_behavior": {
       "English": "Husbands support their wives to consume sufficient variety of foods.",
-      "French": "Les maris soutiennent leurs femmes à consommer les aliments variés suffisants.",
+      "French": "Les maris soutiennent leurs femmes à consommer des aliments variés suffisants.",
       "Swahili": "Waume wanaunga mkono wake zao kula vyakula mbalimbali vya kutosha."
     },
     "action": "",
     "message": {
       "English": "Husband and community members, support pregnant and lactating women to consume a variety of sufficient animal and vegetable foods such as meat, fish, beans, soybeans, peanuts, cowpeas, pineapples, bananas, mangoes, etc. and eat two extra meals to ensure their health and that of the baby.",
-      "French": "Mari et les membres de la communauté, soutenez les femmes enceintes ou allaitantes à consommer les aliments variés suffisants d’origine animale et végétale comme la  viande, le poisson, le haricot, le soja, l’arachide, le niébé, l’ananas, les bananes, la mangue, etc. et prenez deux repas supplémentaires pour garantir votre santé et celle du  bébé.",
+      "French": "Maris et les membres de la communauté, soutenez les femmes enceintes ou allaitantes à consommer des aliments variés suffisants d’origine animale et végétale comme la viande, le poisson, le haricot, le soja, l’arachide, le niébé, l’ananas, les bananes, la mangue, etc. et de prendre deux repas supplémentaires pour garantir leur santé et celle des bébés.",
       "Swahili": "Mume mpendwa na wanajamii, muunge mkono wanawake wajawazito au wanaonyonyesha kula vyakula mbalimbali vya kutosha kutoka kwa wanyama na mboga kama vile nyama, samaki, maharagwe, soya, karanga, ananas, banana, embe, etc. na kula mara mbili zaidi ili kuhakikisha afya yake na ya mtoto wako."
     }
   },
@@ -2153,7 +2153,7 @@
     "action": "",
     "message": {
       "English": "Healthcare providers, make sure to inform and discuss with pregnant and breastfeeding women about the consumption of various foods of animal origin (meat, fish), vegetable origin (fruits: bananas, pineapples, mangoes, etc.), (vegetables) spinach, cauliflower and legumes (soybeans, beans, peanuts) and the inclusion of an extra meal for the pregnant woman and two for the breastfeeding woman in order to maintain their health and that of their babies during the pregnancy and breastfeeding period.",
-      "French": "Prestataires, informez et discutez suffisamment avec les femmes enceintes et allaitantes sur la consommation des aliments variés d'origine animale (viande, poisson) végétale (les fruits: bananes, ananas, mangues, etc.), (légumes) les épinards, chou-fleur et les légumineuses (soja, haricot, arachide) et l'ajout supplémentaire d'un repas pour la femme enceinte et deux pour la femme allaitante pour garantir leur santé et de leur bébés  pendant la grossesse et l'allaitement.",
+      "French": "Prestataires, informez et discutez suffisamment avec les femmes enceintes et allaitantes sur la consommation des aliments variés d'origine animale (viande, poisson) végétale (les fruits: bananes, ananas, mangues, etc.), (légumes) les épinards, chou-fleur et les légumineuses (soja, haricot, arachide) et l'ajout supplémentaire d'un repas pour la femme enceinte et de deux pour la femme allaitante pour garantir leur santé et celle de leur bébés pendant la grossesse et l'allaitement.",
       "Swahili": "Watoa huduma wapendwa, wajulishe na ongeya vya kutosha na wanawake wajawazito na wanaonyonyesha kuhusu matumizi ya vyakula mbalimbali kutoka kwa wanyama (nyama, samaki), matunda (banana, ananas, maembe, etc.), mboga (épinards, chou-fleur; soya, maharagwe, karanga) na kuongeza ziada ya chakula moja kwa mwanamke mjamzito na mbili kwa mwanamke anayenyonyesha ili kuhakikisha afya zao na watoto wao wakati wa ujauzito na unyonyeshaji."
     }
   },
@@ -2167,19 +2167,19 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
     "promoted_behavior": {
       "English": "Women comply with the infant vaccination schedule.",
-      "French": "Les femmes respectent le calendrier vaccination des nourrissons.",
+      "French": "Les femmes respectent le calendrier de vaccination des nourrissons.",
       "Swahili": "Wanawake wana heshimu ratiba ya chanjo ya watoto wachanga."
     },
     "action": "",
     "message": {
       "English": "Breastfeeding woman, we should comply with the 5 free vaccination appointments to ensure the good health of our children from 0 to 9 months.",
-      "French": "Femme allaitante, respectons les 5 rendez-vous de vaccination gratuite pour garantir la bonne santé de nos enfants de 0 à 9 mois.",
+      "French": "Femmes allaitantes, respectons les 5 rendez-vous de vaccination gratuite pour garantir la bonne santé de nos enfants de 0 à 9 mois.",
       "Swahili": "Mwanamke mpendwa anayenyonyesha, hebu tuheshimu ziara 5 za chanjo za bure ili kuhakikisha afya nzuri ya watoto wetu kutoka miezi 0 hadi 9."
     }
   },
@@ -2193,7 +2193,7 @@
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with the vaccination schedule for infants aged 0 to 9 months.",
@@ -2205,7 +2205,7 @@
     "action": "",
     "message": {
       "English": "Mom, have your child vaccinated 5 times before his first birthday to protect him from vaccine-preventable diseases.",
-      "French": "Maman, faites vacciner 5 fois votre enfant avant son premier anniversaire pour le protéger les maladies évitables par la vaccination.",
+      "French": "Maman, faites vacciner 5 fois votre enfant avant son premier anniversaire pour le protéger des maladies évitables par la vaccination.",
       "Swahili": "Mama mpendwa, pata chanjo ya mtoto wako mara 5 kabla ya siku yao ya kwanza ya kuzaliwa (1er anniversaire) kuwalinda na magonjwa yanayozuilika na chanjo."
     }
   },
@@ -2231,7 +2231,7 @@
     "action": "",
     "message": {
       "English": "Husband, healthy children make parents happy, encourage and urge your wives to comply with the routine monthly vaccination schedule for infants aged 0 to 9 months to ensure their health.",
-      "French": "Mari, un enfant en bonne santé fait le bonheur des parents, encouragez et incitez vos femmes à respecter chaque mois le calendrier de vaccination de routine des nourrissons âgé de 0 à 9 mois pour garantir leur santé.",
+      "French": "Mari, un enfant en bonne santé fait le bonheur des parents, encouragez et incitez vos femmes à respecter chaque mois le calendrier de vaccination de routine des nourrissons âgés de 0 à 9 mois pour garantir leur santé.",
       "Swahili": "Mume mpendwa, mtoto mwenye afya ni furaha ya wazazi, uunge mkono na kumhimiza mke wako kuheshimu ratiba ya kawaida ya chanjo ya watoto wachanga wenye umri wa miezi 0 hadi 9 kila mwezi ili kuhakikisha afya zao."
     }
   },
@@ -2251,13 +2251,13 @@
     "problem_behavior": "Healthcare providers do not adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
     "promoted_behavior": {
       "English": "Healthcare providers adequately inform breastfeeding women about the importance and value of routine vaccination of infants aged 0-9 months.",
-      "French": "Les prestataires informent suffisamment les femmes allaitantes sur l'importance et le bien-fondé de la vaccination de routine des nourrissons âgé de 0 à 9 mois.",
+      "French": "Les prestataires informent suffisamment les femmes allaitantes sur l'importance et le bien-fondé de la vaccination de routine des nourrissons âgés de 0 à 9 mois.",
       "Swahili": "Watoa huduma wana wapa taarifa za kutosha kwa wanawake wanaonyonyesha kuhusu umuhimu na usahihi wa chanjo ya kawaida ya watoto wachanga wenye umri wa miezi 0 hadi 9."
     },
     "action": "",
     "message": {
       "English": "Healthcare providers, inform parents about the importance and necessity of routine immunization of their children aged 0 to 9 months at birth, 1.5 months, 2.5 months, 3.5 months and 9 months to protect them against tuberculosis, polio, diphtheria, whooping cough, hepatitis B, meningitis, pneumonia, yellow fever and measles to safeguard their health.",
-      "French": "Prestataires, informez les parents sur l’importance et nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 mois et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
+      "French": "Prestataires, informez les parents sur l’importance et la nécessité de la vaccination de routine de leurs enfants âgés de 0 à 9 mois : à la naissance, à 1 mois et demi, à 2 mois et demi ; à 3 mois et demi et à 9 mois pour les protéger contre la tuberculose, la polio, la diphtérie, la coqueluche, l'hépatite B, la méningite, la pneumonie, la fièvre jaune et la rougeole. Pour garantir la santé des nourrissons.",
       "Swahili": "Watoa huduma wapendwa, wajulishe wazazi kuhusu umuhimu wa chanjo ya mara kwa mara ya watoto wao wenye umri wa miezi 0 hadi 9 wakati wa kuzaliwa, mwezi 1 na nusu, miezi 2 na nusu; katika miezi 3 na nusu na miezi 9 ili kuwalinda na magonjwa ya  tuberculose, polio, diphtérie, coqueluche, hépatite B, méningite, pneumonie, homa ya manjano na rougeole ili kuhakikisha afya ya watoto wachanga."
     }
   },
@@ -2291,13 +2291,13 @@
     "id": 89,
      "intervention": {
       "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
       "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
     },
     "general_audience": "",
     "target_audience": { 
       "English": "Breastfeeding women",
-      "French": "Femme allaitantes",
+      "French": "Femmes allaitantes",
       "Swahili": "Wanawake wanaonyonyesha"
     },
     "problem_behavior": "Breastfeeding women do not comply with CPS appointments for children 0-59 months of age.",
@@ -2317,7 +2317,7 @@
     "id": 90,
     "intervention": {
       "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
       "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
     },
     "general_audience": "",
@@ -2335,7 +2335,7 @@
     "action": "",
     "message": {
       "English": "Husband/partner, be supportive of your wife/partner's compliance with preschool consultation (PSC) appointments for the well-being of your child from 0-59 months.",
-      "French": "Mari/partenaire, soutenez votre femme/partenaire au respect de rendez-vous préscolaire pour le bien être de votre enfant de 0 à 59 mois",
+      "French": "Mari/partenaire, soutenez votre femme/partenaire au respect des rendez-vous préscolaires pour le bien être de votre enfant de 0 à 59 mois.",
       "Swahili": "Mpendwa mume/mpenzi, msaidie mke/mpenzi wako katika kuheshimu mikutano ya CPS kwa ajili ya ustawi wa mtoto wako kutoka miezi 0 hadi 59."
     }
   },
@@ -2343,7 +2343,7 @@
     "id": 91,
     "intervention": {
       "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
       "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
     },
     "general_audience": "",
@@ -2355,13 +2355,13 @@
     "problem_behavior": "Some healthcare providers do not advise women to comply with preschool appointments up to 59 months of age.",
     "promoted_behavior": {
       "English": "Healthcare providers advise women to comply with preschool appointments up to 59 months of age.",
-      "French": "Les prestataires conseillent   les femmes sur le respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois.",
+      "French": "Les prestataires conseillent les femmes sur le respect des rendez-vous de la consultation préscolaire jusqu'à 59 mois.",
       "Swahili": "Watoa huduma  wanashauri wanawake juu ya heshima ya mikutano ya mashauriano kabla ya shule kutoka 0 hadi miezi 59."
     },
     "action": "",
     "message": {
       "English": "Healthcare providers, advise women on compliance with preschool appointments for the well-being of their children 0-59 months.",
-      "French": "Prestataires, conseillez les femmes sur le respect les rendez-vous préscolaires pour le bien-être de leurs enfants 0 à 59 mois.",
+      "French": "Prestataires, conseillez les femmes sur le respect des rendez-vous préscolaires pour le bien-être de leurs enfants de 0 à 59 mois.",
       "Swahili": "Watoa huduma wapendwa, washauri wanawake juu ya heshima ya mashauriano kabla ya shule kwa ustawi wa watoto wao kutoka miezi 0 hadi 59."
     }
   },
@@ -2369,7 +2369,7 @@
     "id": 92,
     "intervention": {
       "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
       "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
     },
     "general_audience": "",
@@ -2395,7 +2395,7 @@
     "id": 93,
     "intervention": {
       "English": "Other preschool consultation (PSC) activities (growth monitoring, infant and young child feeding advice, etc.)",
-      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en  alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
+      "French": "Les autres activités de la Consultation Préscolaire (CPS) (le suivi de croissance, les conseils en alimentation du nourrisson et du jeune enfant (ANJE), etc.)",
       "Swahili": "Shughuli zingine za Mashauriano baada ya kuzaa (ufuatiliaji wa ukuaji, ushauri wa ANJE...)"
     },
     "general_audience": "",
@@ -2407,13 +2407,13 @@
     "problem_behavior": "Mothers do not respect the CPoN3 service (42 days after delivery) and only wait for complications to arise in order to go to the health center.",
     "promoted_behavior": {
       "English": "Mothers respect the post natal consultation (PoNC) service.",
-      "French": "Les femmes accouchées respectent   le service de consultation post natale (CPoN).",
+      "French": "Les femmes accouchées respectent le service de consultation post natale (CPoN).",
       "Swahili": "Wanawake ambao wamezaa wana heshimu huduma ya Mashauriano baada ya kuzaa (CPoN)."
     },
     "action": "",
     "message": {
       "English": "Postpartum woman, continue to go to postnatal consultation to receive vitamin A within 40 days after delivery to ensure your good health and that of the baby.",
-      "French": "Accouchée, chère femme après l’accouchement, continuer d'aller à la consultation postnatale pour recevoir la vitamine A dans les 40 jours qui suivent l’accouchement afin de garantir votre bonne santé et celle du bébé.",
+      "French": "Accouchée, chère femme après l’accouchement, continuez d'aller à la consultation postnatale pour recevoir la vitamine A dans les 40 jours qui suivent l’accouchement afin de garantir votre bonne santé et celle du bébé.",
       "Swahili": "Mwanamke mpendwa aliyezaa, endelea kwenda kwenye mashauriano ya Mashauriano baada ya kuzaa baada ya kuzaa ili kupokea vitamini A ndani ya siku 40 za kuzaa ili kuhakikisha afya yako nzuri na ya mtoto."
     }
   },
