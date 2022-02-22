@@ -8,10 +8,13 @@ function init() {
 }
 
 function burger() {
-    let x = document.getElementById("myLinks");
-    if (x.style.display === "block") {
-        x.style.display = "none";
+    let ol = document.getElementsByClassName('overlay')[0];
+    let menu = document.getElementsByClassName('modal')[0];
+    if (menu.style.display === 'block') {
+        menu.style.display = 'none';
+        ol.style.zIndex = -1
     } else {
-        x.style.display = "block";
+        menu.style.display = 'block';
+        ol.style.zIndex = 1
     }
 }

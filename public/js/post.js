@@ -19,15 +19,19 @@ children = el.querySelectorAll('.lang')
 for (let child of children) {
     child.addEventListener('click', changeLang)
 }
+let language
 
-
-function setCategories() {
+function setCategories(categoryType) {
     language = getLanguage()
-    interventions = [...new Set(allMessages.map(mes => mes.intervention[getLanguage()].toLowerCase().trim()).sort())]
-    general_audiences = [...new Set(allMessages.map(mes => mes.general_audience.toLowerCase().trim()).sort().reverse())]
-    target_audiences = [...new Set(allMessages.map(mes => mes.target_audience[getLanguage()].toLowerCase().trim()).sort().reverse())]
-    promoted_behaviors = [...new Set(allMessages.map(mes => mes.promoted_behavior[getLanguage()].toLowerCase().trim()).sort().reverse())]
-    print_debug(target_audiences, "target audiences")
+    let categoriesStore = [...new Set(allMessages.map(mes => {
+        cat = mes[categoryType][language].toLowerCase().trim()
+        return cat
+    })
+    .sort())]
+    categoriesStore.forEach(cat => {
+        print_element(cat, `f_${categoryType}`, "a")
+    })
+    return categoriesStore
 }
 
 function setFilters(categoryType, category) {
@@ -52,10 +56,10 @@ function applyFilters() {
     if (isEmpty) {
         caseTrimFilter()
         for (let i in allMessages) {
-            if (filter.interventions.includes(allMessages[i].intervention[getLanguage()].toLowerCase().trim())) {
+            if (filter.interventions.includes(allMessages[i].intervention[language].toLowerCase().trim())) {
                 filteredMessages.push(allMessages[i])
             }
-            else if (filter.target_audiences.includes(allMessages[i].target_audience[getLanguage()].toLowerCase().trim())) {
+            else if (filter.target_audiences.includes(allMessages[i].target_audience[language].toLowerCase().trim())) {
                 filteredMessages.push(allMessages[i])
             }
         }
@@ -80,9 +84,9 @@ function getLanguage() {
         default:
             language = 'English'
     }
-    print_debug(language, "language", true)
     return language
 }
+
 
 function getSpecificMessage(i) {
     if (filteredMessages) {
@@ -105,7 +109,12 @@ function getDifMessage(dif) {
 
 function changeLang() {
     lang = this.id
+    whipeContents("f_intervention")
+    whipeContents("f_target_audience")
+    interventions = setCategories("intervention")
+    target_audiences = setCategories("target_audience")
     post()
+
 }
 
 function getRandomMessage(length) {
@@ -115,6 +124,7 @@ function getRandomMessage(length) {
 }
 
 function post() {
+    whipeContents("debugger")
     language = getLanguage()
     if (currentMessage == undefined) {
         if (filteredMessages.length > 0) {
@@ -139,21 +149,23 @@ function post() {
     currentMessage.promoted_behavior.English ? promElem.innerHTML = currentMessage.promoted_behavior[language] : promElem.innerHTML = currentMessage.promoted_behavior
     currentMessage.message.English ? msgElem.innerHTML = currentMessage.message[language] : msgElem.innerHTML = currentMessage.message
 
-    print_debug(msgIndex, 'msgIndex')
-    print_debug(allMessages[msgIndex].id, 'messages[msgIndex].id')
+    print_element(msgIndex)
+    print_element(allMessages[msgIndex].id)
 
 }
 
-function print_debug(variable, msg = "", reset = false) {
-    // let pel = document.createElement("p")
-    // if (msg) { pel.innerHTML = pel.innerHTML = `${msg}: ` }
-    // pel.innerHTML = `${pel.innerHTML}${variable}`
-    // if (reset) {
-    //     while (debugArea.firstChild) {
-    //         debugArea.removeChild(debugArea.firstChild)
-    //     }
-    // }
-    // debugArea.appendChild(pel)
+function whipeContents(parentID) {
+    let parent = document.getElementById(parentID)
+    while (parent.firstChild) {
+        parent.removeChild(parent.firstChild)
+    }
+}
+
+function print_element(variable, parentID = "debugger", type = "p") {
+    let parent = document.getElementById(parentID)
+    let element = document.createElement(type)
+    element.innerHTML = variable
+    parent.appendChild(element)
 }
 
 fetch(requestURL)
@@ -166,7 +178,8 @@ fetch(requestURL)
             }
             response.json().then(function (data) {
                 allMessages = data
-                setCategories()
+                interventions = setCategories("intervention")
+                target_audiences = setCategories("target_audience")
                 post()
                 console.log(allMessages)
             })
@@ -181,4 +194,3 @@ const prev = document.getElementById('prev')
 prev.onclick = () => getDifMessage(-1)
 const next = document.getElementById('next')
 next.onclick = () => getDifMessage(1)
-let debugArea = document.getElementById('debugger')

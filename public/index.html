@@ -1,4 +1,5 @@
 <html>
+
 <head>
     <link rel="manifest" href="/js/pwa.webmanifest">
     <link rel="apple-touch-icon" href="/images/apple-touch.png">
@@ -7,17 +8,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#764ABC" />
 </head>
+
 <body>
     <!-- Top Navigation Menu -->
     <div class="topnav">
-        <span><b class="page-status">online</b></span><!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+        <span><b class="page-status"></b></span>
+        <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
         <!-- Navigation links (hidden by default) -->
-        <div id="myLinks">
+        <span class="overlay" onclick="burger()"></span>
+        <div class="modal" id="myLinks">
             <a href="#">Category</a>
             <a href="#">Audience</a>
             <a href="#">Language</a>
             <a href="#">Contact</a>
             <a href="#">About</a>
+            <div class="filter" id="f_intervention">
+            </div>
+            <div class="filter" id="f_target_audience">
+            </div>
         </div>
         <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
         <a href="javascript:void(0);" class="icon" onclick="burger()">
@@ -99,4 +107,5 @@
     <script src="/js/index.js"></script>
     <script src="/js/post.js"></script>
 </body>
+
 </html>
