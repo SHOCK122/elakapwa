@@ -7,12 +7,12 @@ let interventions
 let general_audiences
 let target_audiences
 let promoted_behaviors
-// let filter = {
-//     interventions: ["Assisted delivery"],
-//     general_audiences: ["Women", "Community", "Woman in labor"],
-//     target_audiences: ["Pregnant women", "The mother", "Women"],
-//     promoted_behaviors: []
-// }
+let filter = {
+    interventions: [],//["Assisted delivery"],
+    target_audiences: []//["Pregnant women", "The mother", "Women"],
+    //general_audiences: ["Women", "Community", "Woman in labor"],
+    //promoted_behaviors: []
+}
 let lang = "eng"
 const el = document.getElementById('langbar')
 children = el.querySelectorAll('.lang')
@@ -43,14 +43,25 @@ function caseTrimFilter() {
 }
 
 function applyFilters() {
-    caseTrimFilter()
-    for (let i in allMessages) {
-        if (filter.interventions.includes(allMessages[i].intervention[getLanguage()].toLowerCase().trim())) {
-            filteredMessages.push(allMessages[i])
+    isEmpty = true
+    for (let cat in filter) {
+        while (isEmpty) {
+            cat.length ? isEmpty = false : true
         }
-        else if (filter.target_audiences.includes(allMessages[i].target_audience[getLanguage()].toLowerCase().trim())) {
-            filteredMessages.push(allMessages[i])
+    }
+    if (isEmpty) {
+        caseTrimFilter()
+        for (let i in allMessages) {
+            if (filter.interventions.includes(allMessages[i].intervention[getLanguage()].toLowerCase().trim())) {
+                filteredMessages.push(allMessages[i])
+            }
+            else if (filter.target_audiences.includes(allMessages[i].target_audience[getLanguage()].toLowerCase().trim())) {
+                filteredMessages.push(allMessages[i])
+            }
         }
+    }
+    else {
+        filteredMessages = allMessages.slice()
     }
 }
 
@@ -143,8 +154,6 @@ function print_debug(variable, msg = "", reset = false) {
     //     }
     // }
     // debugArea.appendChild(pel)
-    console.log(msg)
-    console.log(variable)
 }
 
 fetch(requestURL)
