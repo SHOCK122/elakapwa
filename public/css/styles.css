@@ -153,3 +153,7 @@ p.message {
     /* styling */
     z-index:2;
   }
+
+  .filter {
+      display: none;
+  }
