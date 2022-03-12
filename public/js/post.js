@@ -143,7 +143,7 @@ function post() {
     const promElem = document.querySelector('.promote')
     const msgElem = document.querySelector('.message')
     const audPlayer = document.getElementById('audio_player')
-    audPlayer.setAttribute('src', `/audio/elaka${currentMessage.id}.mp4`)
+    audPlayer.setAttribute('src', `https://elakapwa.s3.amazonaws.com/elaka${currentMessage.id}.mp4`)
     idElem.innerHTML = currentMessage.id
     currentMessage.intervention.English ? intervElem.innerHTML = currentMessage.intervention[language] : intervElem.innerHTML = currentMessage.intervention
     currentMessage.general_audience.English ? genElem.innerHTML = currentMessage.general_audience[language] : genElem.innerHTML = currentMessage.general_audience
