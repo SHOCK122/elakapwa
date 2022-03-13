@@ -4,7 +4,7 @@ const toCache = [
     '/js/post.js',
     '/js/messages.json',
     '/js/status.js',
-    '/css/styles.css',
+    '/css/styles.css'
     //'/audio/'
 ];
 

@@ -109,8 +109,8 @@ function getDifMessage(dif) {
 
 function changeLang() {
     lang = this.id
-    whipeContents("f_intervention")
-    whipeContents("f_target_audience")
+    wipeContents("f_intervention")
+    wipeContents("f_target_audience")
     interventions = setCategories("intervention")
     target_audiences = setCategories("target_audience")
     post()
@@ -124,7 +124,7 @@ function getRandomMessage(length) {
 }
 
 function post() {
-    whipeContents("debugger")
+    wipeContents("debugger")
     language = getLanguage()
     if (currentMessage == undefined) {
         if (filteredMessages.length > 0) {
@@ -143,7 +143,8 @@ function post() {
     const promElem = document.querySelector('.promote')
     const msgElem = document.querySelector('.message')
     const audPlayer = document.getElementById('audio_player')
-    audPlayer.setAttribute('src', `https://elakapwa.s3.amazonaws.com/Elaka${currentMessage.id}.mp4`)
+    //audPlayer.setAttribute('src', `https://elakapwa.s3.amazonaws.com/Elaka${currentMessage.id}.mp4`)
+    audPlayer.setAttribute('src', `../audio/Elaka${currentMessage.id}.${getFileType()}`)
     idElem.innerHTML = currentMessage.id
     currentMessage.intervention.English ? intervElem.innerHTML = currentMessage.intervention[language] : intervElem.innerHTML = currentMessage.intervention
     currentMessage.general_audience.English ? genElem.innerHTML = currentMessage.general_audience[language] : genElem.innerHTML = currentMessage.general_audience
@@ -156,7 +157,19 @@ function post() {
 
 }
 
-function whipeContents(parentID) {
+function getFileType() {
+    let connection = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+    if (connection) {
+        if (['slow-2g', '2g', '3g'].includes(connection.effectiveType)) {
+            return "mp3"
+        }
+        else {
+            return "ogg"
+        }
+    }
+}
+
+function wipeContents(parentID) {
     let parent = document.getElementById(parentID)
     while (parent.firstChild) {
         parent.removeChild(parent.firstChild)

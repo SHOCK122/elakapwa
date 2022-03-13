@@ -5,6 +5,15 @@ function init() {
         const statusElem = document.querySelector('.page-status')
         statusElem.innerHTML = 'offline'
     }
+    else {
+        /*TO DO:
+        check if files in cache
+        load based on user input (provide estimated data usage)
+        load only files not in cache
+        (retry partial downloads? might be automatic)
+        */
+        preLoader() //
+    }
 }
 
 function burger() {
