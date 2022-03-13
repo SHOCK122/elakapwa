@@ -154,7 +154,6 @@ function post() {
 
     print_element(msgIndex)
     print_element(allMessages[msgIndex].id)
-
 }
 
 function getFileType() {
@@ -167,6 +166,9 @@ function getFileType() {
             return "ogg"
         }
     }
+    // TO DO:
+    // check if ogg is cached before fallback to mp3
+    return "mp3"
 }
 
 function wipeContents(parentID) {
