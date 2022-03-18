@@ -163,7 +163,7 @@ function getFileType() {
             return "mp3"
         }
         else {
-            return "ogg"
+            return "mp3"//"ogg"
         }
     }
     // TO DO:
