@@ -46,11 +46,27 @@ function init() {
 function burger() {
     let ol = document.getElementsByClassName('overlay')[0];
     let menu = document.getElementsByClassName('modal')[0];
-    if (menu.style.display === 'block') {
+    if (menu.style.display === 'flex') {
         menu.style.display = 'none';
         ol.style.zIndex = -1
     } else {
-        menu.style.display = 'block';
+        menu.style.display = 'flex';
         ol.style.zIndex = 1
+    }
+}
+
+function nav_vis_toggle(target) {
+    let menu = document.getElementById(target)
+    let filters = document.getElementsByClassName('filter')
+    for (const el of filters) {
+        if (el != menu) {
+            el.style.display = 'none'
+        }
+    }
+    if (menu.style.display != 'none') {
+        menu.style.display = 'none';
+    } else {
+        menu.style.display = 'flex';
+        menu.style.flexDirection = 'column';
     }
 }

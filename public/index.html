@@ -17,15 +17,25 @@
         <!-- Navigation links (hidden by default) -->
         <span class="overlay" onclick="burger()"></span>
         <div class="modal" id="myLinks">
-            <a href="#">Category</a>
-            <a href="#">Audience</a>
-            <a href="#">Language</a>
-            <a href="#">Contact</a>
-            <a href="#">About</a>
-            <div class="filter container">
-                <div class="filter" id="f_intervention">
-                </div>
-                <div class="filter" id="f_target_audience">
+            <div class="modal-content">
+                <div class="nav">
+                    <a href="#" id="nav-category" onclick="nav_vis_toggle('f_intervention')">Category</a>
+                    <a href="#" id="nav-audience" onclick="nav_vis_toggle('f_target_audience')">Audience</a>
+                    <a href="#" id="nav-language" onclick="nav_vis_toggle('langbar')">Language</a>
+                    <a href="#" id="nav-contact">Contact</a>
+                    <a href="#" id="nav-about">About</a></div>
+                <div class="filter-container">
+                    <div class="filter" id="f_intervention" style="display: none;">
+                        <!-- Gets filled systematically -->
+                    </div>
+                    <div class="filter" id="f_target_audience" style="display: none;">
+                        <!-- Gets filled systematically -->
+                    </div>
+                    <div class="filter" id="langbar" style="display: none;">
+                        <a href="#" class="lang" id="eng">English</a>
+                        <a href="#" class="lang" id="fr">French</a>
+                        <a href="#" class="lang" id="swh">Swahili</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -91,25 +101,12 @@
             </span>
         </p>
     </div>
-    <div>
-        <div class="debugger" id="debugger">
+    <div class="debugger" id="debugger">
 
-        </div>
-    </div>
-    <div id="langbar">
-        <div>
-            <a href="#" class="lang" id="eng">English</a>
-        </div>
-        <div>
-            <a href="#" class="lang" id="fr">French</a>
-        </div>
-        <div>
-            <a href="#" class="lang" id="swh">Swahili</a>
-        </div>
     </div>
     <div id="navbar">
-        <button class="navbutton" id="prev">Previous</button>
-        <button class="navbutton" id="next">Next</button>
+        <button class="navbutton" id="prev">←</button>
+        <button class="navbutton" id="next">→</button>
     </div>
     <script src="/js/pwa.js"></script>
     <script src="/js/status.js"></script>
