@@ -7,22 +7,21 @@ let interventions
 let general_audiences
 let target_audiences
 let promoted_behaviors
+let language = "English"
+
 let filter = {
     interventions: [],//["Assisted delivery"],
     target_audiences: []//["Pregnant women", "The mother", "Women"],
     //general_audiences: ["Women", "Community", "Woman in labor"],
     //promoted_behaviors: []
 }
-let lang = "eng"
-const el = document.getElementById('langbar')
-children = el.querySelectorAll('.lang')
-for (let child of children) {
-    child.addEventListener('click', changeLang)
+
+const languages = document.getElementsByClassName('lang')
+for (let lang of languages) {
+    lang.addEventListener('click', changeLang)
 }
-let language
 
 function setCategories(categoryType) {
-    language = getLanguage()
     let categoriesStore = [...new Set(allMessages.map(mes => {
         cat = mes[categoryType][language].toLowerCase().trim()
         return cat
@@ -69,25 +68,6 @@ function applyFilters() {
     }
 }
 
-function getLanguage() {
-    let language = 'eng'
-    switch (lang) {
-        case 'eng':
-            language = 'English'
-            break;
-        case 'fr':
-            language = 'French'
-            break;
-        case 'swh':
-            language = 'Swahili'
-            break;
-        default:
-            language = 'English'
-    }
-    return language
-}
-
-
 function getSpecificMessage(i) {
     if (filteredMessages) {
         while (i >= filteredMessages.length) {
@@ -108,7 +88,7 @@ function getDifMessage(dif) {
 }
 
 function changeLang() {
-    lang = this.id
+    language = this.id
     wipeContents("f_intervention")
     wipeContents("f_target_audience")
     interventions = setCategories("intervention")
@@ -125,7 +105,6 @@ function getRandomMessage(length) {
 
 function post() {
     wipeContents("debugger")
-    language = getLanguage()
     if (currentMessage == undefined) {
         if (filteredMessages.length > 0) {
             getRandomMessage(filteredMessages.length)
