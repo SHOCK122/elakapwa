@@ -10,15 +10,19 @@ let promoted_behaviors
 let language = "English"
 
 let filter = {
-    interventions: [],//["Assisted delivery"],
-    target_audiences: []//["Pregnant women", "The mother", "Women"],
+    intervention: [],//["Assisted delivery"],
+    target_audience: []//["Pregnant women", "The mother", "Women"],
     //general_audiences: ["Women", "Community", "Woman in labor"],
     //promoted_behaviors: []
 }
 
 const languages = document.getElementsByClassName('lang')
-for (let lang of languages) {
+for (const lang of languages) {
     lang.addEventListener('click', changeLang)
+    // lang.addEventListener('click', e => {
+    //     console.log(e.target)
+    //     e.target.classList.add('highlight')
+    // })
 }
 
 function setCategories(categoryType) {
@@ -28,17 +32,44 @@ function setCategories(categoryType) {
     })
     .sort())]
     categoriesStore.forEach(cat => {
-        print_element(cat, `f_${categoryType}`, "a")
+        print_element(cat, `f_${categoryType}`, "a", setFilters)
     })
     return categoriesStore
 }
 
-function setFilters(categoryType, category) {
+function clearHighlights() {
+    let filCon = document.getElementsByClassName('filter-container')[0]
+    console.log(filCon)
+    for (const cat of filCon.children) {
+        for (const child of cat.children) {
+            child.classList.remove('highlight')
+        }
+    }
+}
 
+function setFilters(categoryType, category, link) {
+    if (!filter[categoryType].length) {
+        filter.intervention = []
+        filter.target_audience = []
+        clearHighlights()
+    }
+    if (filter[categoryType].includes(category)) {
+        const index = filter[categoryType].indexOf(category)
+        if (index > -1) {
+            filter[categoryType].splice(index, 1)
+            link.classList.remove('highlight')
+        }
+    }
+    else {
+        filter[categoryType].push(category)
+        link.classList.add('highlight')
+    }
+
+    applyFilters()
 }
 
 function caseTrimFilter() {
-    for (let cat in filter) {
+    for (const cat in filter) {
         filter[cat].forEach(function (t, i, itself) {
             itself[i] = t.toLowerCase().trim()
         })
@@ -47,25 +78,28 @@ function caseTrimFilter() {
 
 function applyFilters() {
     isEmpty = true
-    for (let cat in filter) {
-        while (isEmpty) {
-            cat.length ? isEmpty = false : true
+    for (const cat in filter) {
+        if (isEmpty) {
+            filter[cat].length ? isEmpty = false : true
         }
     }
-    if (isEmpty) {
+    if (!isEmpty) {
+        filteredMessages = []
         caseTrimFilter()
-        for (let i in allMessages) {
-            if (filter.interventions.includes(allMessages[i].intervention[language].toLowerCase().trim())) {
+        for (const i in allMessages) {
+            if (filter.intervention.includes(allMessages[i].intervention[language].toLowerCase().trim())) {
                 filteredMessages.push(allMessages[i])
             }
-            else if (filter.target_audiences.includes(allMessages[i].target_audience[language].toLowerCase().trim())) {
+            else if (filter.target_audience.includes(allMessages[i].target_audience[language].toLowerCase().trim())) {
                 filteredMessages.push(allMessages[i])
             }
         }
     }
     else {
-        filteredMessages = allMessages.slice()
+        console.log(allMessages)
+        filteredMessages = [...allMessages]
     }
+    getSpecificMessage(filteredMessages[0].id)
 }
 
 function getSpecificMessage(i) {
@@ -93,6 +127,7 @@ function changeLang() {
     wipeContents("f_target_audience")
     interventions = setCategories("intervention")
     target_audiences = setCategories("target_audience")
+    
     post()
 
 }
@@ -112,7 +147,6 @@ function post() {
         }
         else {
             applyFilters()
-            getRandomMessage(filteredMessages.length)
         }
     }
     const idElem = document.querySelector('.message_id')
@@ -122,8 +156,8 @@ function post() {
     const promElem = document.querySelector('.promote')
     const msgElem = document.querySelector('.message')
     const audPlayer = document.getElementById('audio_player')
-    audPlayer.setAttribute('src', `https://elakapwa.s3.amazonaws.com/Elaka${currentMessage.id}.${getFileType()}`)
-    //audPlayer.setAttribute('src', `../audio/Elaka${currentMessage.id}.${getFileType()}`)
+    //audPlayer.setAttribute('src', `https://elakapwa.s3.amazonaws.com/Elaka${currentMessage.id}.${getFileType()}`)
+    audPlayer.setAttribute('src', `../audio/Elaka${currentMessage.id}.${getFileType()}`)
     idElem.innerHTML = currentMessage.id
     currentMessage.intervention.English ? intervElem.innerHTML = currentMessage.intervention[language] : intervElem.innerHTML = currentMessage.intervention
     currentMessage.general_audience.English ? genElem.innerHTML = currentMessage.general_audience[language] : genElem.innerHTML = currentMessage.general_audience
@@ -157,11 +191,21 @@ function wipeContents(parentID) {
     }
 }
 
-function print_element(variable, parentID = "debugger", type = "p") {
+function print_element(variable, parentID = "debugger", type = "p", callback) {
     let parent = document.getElementById(parentID)
     let element = document.createElement(type)
     element.innerHTML = variable
+    if (callback) {
+        element.addEventListener('click', e => {
+            return callback(parentID.slice(2, parentID.length), variable, e.target)
+        }, false)
+        // element.addEventListener('click',e => {
+        //     console.log(e.target)
+        // })
+    }
     parent.appendChild(element)
+
+    return element
 }
 
 fetch(requestURL)
@@ -188,5 +232,6 @@ fetch(requestURL)
 
 const prev = document.getElementById('prev')
 prev.onclick = () => getDifMessage(-1)
+
 const next = document.getElementById('next')
 next.onclick = () => getDifMessage(1)

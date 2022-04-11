@@ -16,6 +16,10 @@ a {
     color: #dd0000
 }
 
+.highlight {
+    background-color: #dd0000;
+}
+
 p.intervention {
     /*! font-size: xx-large; */
     font-weight: bolder;
@@ -34,6 +38,7 @@ p.target_audience {
     height: calc(100% - 90px);
     width: 100%;
     margin-top: 45px;
+    padding: 4px;
     position: absolute;
     text-align: center;
 }
