@@ -134,6 +134,12 @@ p.message {
             color: black;
         }
 
+        /* Add a pink background color on mouse-over for selected items*/
+        .topnav a.highlight:hover {
+            background-color: rgb(255, 166, 166);
+            color: rgb(126, 0, 0);
+        }
+
 /* Style the active link (or home/logo) */
 .active {
     background-color: #04AA6D;
