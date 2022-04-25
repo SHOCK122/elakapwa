@@ -22,8 +22,10 @@
                     <a href="#" id="nav-category" onclick="nav_vis_toggle('f_intervention')">Category</a>
                     <a href="#" id="nav-audience" onclick="nav_vis_toggle('f_target_audience')">Audience</a>
                     <a href="#" id="nav-language" onclick="nav_vis_toggle('langbar')">Language</a>
-                    <a href="#" id="nav-contact">Contact</a>
-                    <a href="#" id="nav-about">About</a></div>
+                    <a href="#" id="nav-contact" onclick="nav_vis_toggle('contact')">Contact</a>
+                    <a href="https://elakadrc.com/about/" id="nav-about" target="_blank"
+                        rel="noopener noreferrer">About</a>
+                </div>
                 <div class="filter-container">
                     <div class="filter" id="f_intervention" style="display: none;">
                         <!-- Gets filled systematically -->
@@ -31,18 +33,25 @@
                     <div class="filter" id="f_target_audience" style="display: none;">
                         <!-- Gets filled systematically -->
                     </div>
-                </div>
-                <div class="filter" id="langbar" style="display: none;">
-                    <a href="#" class="lang" id="English">🇬🇧 English</a>
-                    <a href="#" class="lang" id="French">🇫🇷 French</a>
-                    <a href="#" class="lang" id="Swahili">🌍 Swahili</a>
+                    <div class="filter" id="langbar" style="display: none;">
+                        <a href="#" class="lang" id="English">🇬🇧 English</a>
+                        <a href="#" class="lang" id="French">🇫🇷 French</a>
+                        <a href="#" class="lang" id="Swahili">🌍 Swahili</a>
+                    </div>
+                    <div class="filter" id="contact" style="display: none;">
+                        <a href="mailto:info@elakadrc.com" target="_blank"
+                            rel="noopener noreferrer">info@elakadrc.com</a>
+                        <!-- this breaks the burger for some reason <a href="https://elakadrc.com/contact/" id="nav-contact" target="_blank"
+                            rel="noopener noreferrer">Form</a> -->
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
-        <a href="javascript:void(0);" class="icon" onclick="burger()">
-            <i class="fa fa-bars"></i>
-        </a>
+    </div>
+    <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+    <a href="javascript:void(0);" class="icon" onclick="burger()">
+        <i class="fa fa-bars"></i>
+    </a>
     </div>
     <div class="content">
         <p class="message_id hidden">
@@ -86,10 +95,8 @@
             </span>
         </p>
         <p class="audio">
-            <audio id="audio_player"
-                controls
-                src="">
-                    Your browser does not support the audio file type.
+            <audio id="audio_player" controls src="">
+                Your browser does not support the audio file type.
             </audio>
         </p>
         <p class="message">
