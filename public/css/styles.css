@@ -3,11 +3,13 @@
 }
 
 body {
-    display: grid;
+    /*! display: grid; */
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     grid-template-rows: 45px auto 45px;
     margin: 0;
+    height: 100%;
+    overflow: hidden;
 }
 
 a {
@@ -33,17 +35,20 @@ p.target_audience {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: calc(100% - 90px);
-    margin-top: 45px;
-    padding: 4px;
-    position: absolute;
+    height: calc(100% - 90px - 2em);
+    padding: 1em;
     text-align: center;
 }
 
+div.message-box {
+    min-height: calc(60% - 90px - 2em);
+    max-height: 100%;
+}
+
 p.message {
-    overflow-y: auto;
     max-height: 100%;
     text-align: left;
+    overflow-y: auto;
 }
 
 div#navbar {
@@ -86,7 +91,6 @@ p.message {
 /* Style the navigation menu */
 .topnav {
     background-color: #333;
-    position: absolute;
     height: 45px;
     right: 0;
     width: 100%;
